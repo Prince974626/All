@@ -1,0 +1,466 @@
+[
+  {
+    "id": 1,
+    "game_name": "JetX",
+    "game_uid": "2e815f80a5a87b0255c130c00d95a71e",
+    "game_type": "XGames",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 01_ JetX.jpg"
+  },
+  {
+    "id": 2,
+    "game_name": "Balloon",
+    "game_uid": "b869a83fc241533c5422dad27340a0ea",
+    "game_type": "XGames",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 02_ Balloon.png"
+  },
+  {
+    "id": 3,
+    "game_name": "FootballX",
+    "game_uid": "0487c9d22cea1278b01503a7d15ba699",
+    "game_type": "XGames",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 03_ FootballX.jpg"
+  },
+  {
+    "id": 4,
+    "game_name": "PlinkoX",
+    "game_uid": "e38dd01866d8e669cd032f00b8b2df8a",
+    "game_type": "XGames",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 04_ PlinkoX.jpg"
+  },
+  {
+    "id": 5,
+    "game_name": "MineIsland",
+    "game_uid": "00c415d15a4cdbbca0e22f0140fb0322",
+    "game_type": "XGames",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 05_ MineIsland.jpg"
+  },
+  {
+    "id": 6,
+    "game_name": "RollX",
+    "game_uid": "1dde1cc0e2f8c1c7af6f2cef698e00a6",
+    "game_type": "XGames",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 06_ RollX.jpg"
+  },
+  {
+    "id": 7,
+    "game_name": "Smash X",
+    "game_uid": "d2907544c24c61c35313dd1a7498a6eb",
+    "game_type": "XGames",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 07_ Smash X.png"
+  },
+  {
+    "id": 8,
+    "game_name": "HelicopterX",
+    "game_uid": "6030d4bfb5fa164ab1b5e10aa4a27435",
+    "game_type": "XGames",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 10_ HelicopterX.jpg"
+  },
+  {
+    "id": 9,
+    "game_name": "CricketX",
+    "game_uid": "188e43c0545c6690800d12de5018b17f",
+    "game_type": "XGames",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 11_ CricketX.jpg"
+  },
+  {
+    "id": 10,
+    "game_name": "JetX3",
+    "game_uid": "0bf2d88c9f5811d9c514bd9a6756d7f8",
+    "game_type": "XGames",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 14_ JetX3.png"
+  },
+  {
+    "id": 11,
+    "game_name": "DoubleX",
+    "game_uid": "0e42e68470278b87181c16850924d438",
+    "game_type": "XGames",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 15_ DoubleX.jpg"
+  },
+  {
+    "id": 12,
+    "game_name": "TowerX",
+    "game_uid": "5fa811450c40fda4caba581f6f10f2aa",
+    "game_type": "XGames",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 16_ TowerX.jpg"
+  },
+  {
+    "id": 13,
+    "game_name": "Crash Duel X",
+    "game_uid": "d901f78f875b497e577785c7e20ff99f",
+    "game_type": "XGames",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 18_ Crash Duel X.jpg"
+  },
+  {
+    "id": 14,
+    "game_name": "4 Bonuses Bonanza",
+    "game_uid": "cab7aee3bac4f737e21064af9b15eb3e",
+    "game_type": "XGames",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 19_ 4 Bonuses Bonanza.jpg"
+  },
+  {
+    "id": 15,
+    "game_name": "MultiHot5",
+    "game_uid": "d14c7bee006243f2c871f948567cd6de",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 21_ MultiHot5.jpg"
+  },
+  {
+    "id": 16,
+    "game_name": "Multi Hot Ways",
+    "game_uid": "d1b3c0d5a9244f091326d5b67326be29",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 22_ Multi Hot Ways.jpg"
+  },
+  {
+    "id": 17,
+    "game_name": "Burning Ice",
+    "game_uid": "80d9739d8f8c28efed374f92004aeff9",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 23_ Burning Ice.jpg"
+  },
+  {
+    "id": 18,
+    "game_name": "Burning Ice 10",
+    "game_uid": "ec484f392ab823b1eda3ae165855aa62",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 24_ Burning Ice 10.jpg"
+  },
+  {
+    "id": 19,
+    "game_name": "Burning Ice 40",
+    "game_uid": "a45fe51120ece7b82df68db517be93ef",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 25_ Burning Ice 40.jpg"
+  },
+  {
+    "id": 20,
+    "game_name": "Wild & Gods",
+    "game_uid": "0c6784230fa2e9a1025b94e5f922db20",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 26_ Wild Gods.jpg"
+  },
+  {
+    "id": 21,
+    "game_name": "Book of Futuria",
+    "game_uid": "70aa2b994c771293caf6e293ad558184",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 27_ Book of Futuria.jpg"
+  },
+  {
+    "id": 22,
+    "game_name": "WildMultiStar",
+    "game_uid": "15aaf33fa883350f2e30e6e154da983d",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 28_ WildMultiStar.jpg"
+  },
+  {
+    "id": 23,
+    "game_name": "HotSamba",
+    "game_uid": "97975f474952c6f82eca72c0dec22479",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 29_ HotSamba.jpg"
+  },
+  {
+    "id": 24,
+    "game_name": "Vampires",
+    "game_uid": "3a849575e6d3df594ba83d3083260a6e",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 30_ Vampires.jpg"
+  },
+  {
+    "id": 25,
+    "game_name": "Genie's Bonanza",
+    "game_uid": "01339844968800b82b913fdbe84d57ab",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 32_ Genie_s Bonanza.jpg"
+  },
+  {
+    "id": 26,
+    "game_name": "Foxy Hot 20",
+    "game_uid": "64baba1e8dac6b12acccb88bb945d91a",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 33_ Foxy Hot 20.jpg"
+  },
+  {
+    "id": 27,
+    "game_name": "Samurai",
+    "game_uid": "556c49ac0e6031cd0387bd3d8dae9e5e",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 34_ Samurai.jpg"
+  },
+  {
+    "id": 28,
+    "game_name": "Safari Simba",
+    "game_uid": "b093f4f7518a4929e21df64c718edb32",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 35_ Safari Simba.jpg"
+  },
+  {
+    "id": 29,
+    "game_name": "Sugar Fiesta",
+    "game_uid": "8a35c9e64d05c2556035c4a04fa9cc51",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 36_ Sugar Fiesta.jpg"
+  },
+  {
+    "id": 30,
+    "game_name": "Dracula's Fortune",
+    "game_uid": "19e72f5d7562f1129621394f6d765da7",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 37_ Dracula_s Fortune.jpg"
+  },
+  {
+    "id": 31,
+    "game_name": "Book Of Bonanza",
+    "game_uid": "b04b18102cbf1e72c80a940b45adf0a9",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 39_ Book Of Bonanza.png"
+  },
+  {
+    "id": 32,
+    "game_name": "Mad Slot",
+    "game_uid": "a938075077a7d997ea53ee0570ab4223",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 40_ Mad Slot.jpg"
+  },
+  {
+    "id": 33,
+    "game_name": "Cheesy Road",
+    "game_uid": "010deb3eed02422b65987a405b1b6272",
+    "game_type": "Instant",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 46_ Cheesy Road.jpg"
+  },
+  {
+    "id": 34,
+    "game_name": "ChickenWays",
+    "game_uid": "07f8a66e70324849b390ecf2f0304e46",
+    "game_type": "Crash",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 48_ ChickenWays.png"
+  },
+  {
+    "id": 35,
+    "game_name": "BottleMania",
+    "game_uid": "8bf57b8e0e03392d9c1120750a690eab",
+    "game_type": "Crash",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 49_ BottleMania.png"
+  },
+  {
+    "id": 36,
+    "game_name": "CheesyRoadClassic",
+    "game_uid": "2e3d46d439bbd8a66cee124f451dd48f",
+    "game_type": "Crash",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 50_ CheesyRoadClassic.png"
+  },
+  {
+    "id": 37,
+    "game_name": "Gates Of Merlyn",
+    "game_uid": "52125b08b0fc446d6fc458379fca5783",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 51_ Gates Of Merlyn.png"
+  },
+  {
+    "id": 38,
+    "game_name": "Dice Jungle",
+    "game_uid": "e3db3aed19266ae3e3b56c27de9fe645",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 52_ Dice Jungle.png"
+  },
+  {
+    "id": 39,
+    "game_name": "CaiBalaoCappadocia",
+    "game_uid": "cde090d8b3a5cb9dd4fddec3c92ccbd5",
+    "game_type": "Crash",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 08_ Cappadocia.jpg"
+  },
+  {
+    "id": 40,
+    "game_name": "ChickenHighway",
+    "game_uid": "fb52d6f811cfe65884fa591eb109c910",
+    "game_type": "Crash",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 56_ ChickenHighway.png"
+  },
+  {
+    "id": 41,
+    "game_name": "WheelOfDestiny",
+    "game_uid": "82921ca9fdd8d36028b3e0ae46e94229",
+    "game_type": "Crash",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 57_ WheelOfDestiny.png"
+  },
+  {
+    "id": 42,
+    "game_name": "Multi Hot 5 Wild",
+    "game_uid": "f1a04ad180050a8f9adf6c48ad6b0c07",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 60_ Multi Hot 5 Wild.png"
+  },
+  {
+    "id": 43,
+    "game_name": "Jungle Sisters",
+    "game_uid": "a313e8705f5150c491234897b3d3c696",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 61_ Jungle Sisters.png"
+  },
+  {
+    "id": 44,
+    "game_name": "Boka Jamba 10",
+    "game_uid": "6c94f61c29afbe67f27971cde9579313",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 62_ Boka Jamba 10.png"
+  },
+  {
+    "id": 45,
+    "game_name": "Multi Hot 5 Burn Wilds",
+    "game_uid": "3e526446adfb671ce0dca20c188381f0",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 63_ Multi Hot 5 Burn Wilds.png"
+  },
+  {
+    "id": 46,
+    "game_name": "Mariachi Coins",
+    "game_uid": "51e56c8cd5f003e722c2bf62ef7ddcd0",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 64_ Mariachi Coins.png"
+  },
+  {
+    "id": 47,
+    "game_name": "Bao Slot 5X",
+    "game_uid": "0d899ab9e6a0b45d127e66eebc534a4c",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 65_ Bao Slot 5X.png"
+  },
+  {
+    "id": 48,
+    "game_name": "Jungle Sisters Deluxe",
+    "game_uid": "2f34579d1bf26885741182d1d2760f0d",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 66_ Jungle Sisters Deluxe.png"
+  },
+  {
+    "id": 49,
+    "game_name": "Dragon's Code",
+    "game_uid": "fb9938d154840eaff7ff91c3f7e6b5fd",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 67_ Dragon_s Code.png"
+  },
+  {
+    "id": 50,
+    "game_name": "Multi Hot Wild Ways",
+    "game_uid": "9ee9195acd8042e42567c68f51f7cf68",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 68_ Multi Hot Wild Ways.png"
+  },
+  {
+    "id": 51,
+    "game_name": "Multi Hot 5 Super Wilds",
+    "game_uid": "199b8b209b2d1e7998bd24a7212efa00",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 69_ Multi Hot 5 Super Wilds.png"
+  },
+  {
+    "id": 52,
+    "game_name": "Dracula's Fortune Halloween Edition",
+    "game_uid": "0d702ea97bf5167c49b266616161a2ec",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 70_ Dracula_s Fortune Halloween Edition.png"
+  },
+  {
+    "id": 53,
+    "game_name": "Multi Hot 5 Deluxe",
+    "game_uid": "64c20875c6cb0c9f8a004c2e039b953f",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 71_ Multi Hot 5 Deluxe.jpg"
+  },
+  {
+    "id": 54,
+    "game_name": "Jingle Bell Bonanza",
+    "game_uid": "075dcde2478f054fb6cc3da725db5a14",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 72_ Jingle Bell Bonanza.png"
+  },
+  {
+    "id": 55,
+    "game_name": "Farm's Fortune",
+    "game_uid": "9ed7a2d1b245d21ac83ffdc37aea6329",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 73_ Farm_s Fortune.png"
+  },
+  {
+    "id": 56,
+    "game_name": "MultiHot5",
+    "game_uid": "d14c7bee006243f2c871f948567cd6de",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 21_ MultiHot5.jpg"
+  },
+  {
+    "id": 57,
+    "game_name": "WildMultiStar",
+    "game_uid": "15aaf33fa883350f2e30e6e154da983d",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 28_ WildMultiStar.jpg"
+  },
+  {
+    "id": 58,
+    "game_name": "Wild & Gods",
+    "game_uid": "0c6784230fa2e9a1025b94e5f922db20",
+    "game_type": "Slot",
+    "provider": "smartsoft",
+    "icon": "https://files.bulkapi.site/smartsoft/SS 26_ Wild Gods.jpg"
+  }
+]

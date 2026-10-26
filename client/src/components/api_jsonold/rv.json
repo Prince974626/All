@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "game_name": "Baccart",
+    "game_uid": "fcb45f134e50cc146446ff9ecfb96fbb",
+    "game_type": "Lobby",
+    "provider": "Creed",
+    "icon": "https://bulkapi.in/vivo-creed/baccarat-lobby.webp"
+  },
+  {
+    "id": 2,
+    "game_name": "Casino Holdem",
+    "game_uid": "3393c421ad305a455c4f37ac0a8ec8f3",
+    "game_type": "other",
+    "provider": "Creed",
+    "icon": "https://bulkapi.in/vivo-creed/teenpatti.webp"
+  },
+  {
+    "id": 3,
+    "game_name": "Dragon Tiger",
+    "game_uid": "b6eb1769e7c69ded319dd77690c1a205",
+    "game_type": "keno",
+    "provider": "Creed",
+    "icon": "https://bulkapi.in/vivo-creed/dragon-tiger.webp"
+  },
+  {
+    "id": 4,
+    "game_name": "Baccarat Classic",
+    "game_uid": "7d42b71ecc076ea3e300e74b7f7cadf0",
+    "game_type": "baccarat",
+    "provider": "Creed",
+    "icon": "https://bulkapi.in/vivo-creed/Baccarat-Classic.webp"
+  },
+  {
+    "id": 5,
+    "game_name": "Baccarat A",
+    "game_uid": "4d888c0df6d175f5a2cefbc06db68cf9",
+    "game_type": "baccarat",
+    "provider": "Creed",
+    "icon": "https://bulkapi.in/vivo-creed/Baccarat-A.webp"
+  },
+  {
+    "id": 6,
+    "game_name": "Baccarat B",
+    "game_uid": "3e97a3b44acb4cdd114fd03df4dc903c",
+    "game_type": "baccarat",
+    "provider": "Creed",
+    "icon": "https://bulkapi.in/vivo-creed/Baccarat-B.webp"
+  },
+  {
+    "id": 7,
+    "game_name": "BlackJack A",
+    "game_uid": "9fd901a5b24ced5e03daecd1d6adfe31",
+    "game_type": "baccarat",
+    "provider": "Creed",
+    "icon": "https://bulkapi.in/vivo-creed/blackjack.webp"
+  },
+  {
+    "id": 8,
+    "game_name": "Richie Wheel",
+    "game_uid": "b7d922d261e65792dfb236d434c4a4c6",
+    "game_type": "other",
+    "provider": "Creed",
+    "icon": "https://bulkapi.in/vivo-creed/vivo9.webp"
+  },
+  {
+    "id": 9,
+    "game_name": "Aurum Sic Bo",
+    "game_uid": "be10a0ba64dd9977771ba4802a2b6c64",
+    "game_type": "other",
+    "provider": "Creed",
+    "icon": "https://bulkapi.in/vivo-creed/Andar-Bahar.webp"
+  },
+  {
+    "id": 10,
+    "game_name": "Casino Holdem",
+    "game_uid": "3393c421ad305a455c4f37ac0a8ec8f3",
+    "game_type": "poker",
+    "provider": "Creed",
+    "icon": "https://bulkapi.in/vivo-creed/Casino-Holdem.webp"
+  },
+  {
+    "id": 11,
+    "game_name": "Sic Bo",
+    "game_uid": "bdcbdf580cb9ac01840bb211c0a97d64",
+    "game_type": "other",
+    "provider": "Creed",
+    "icon": "https://bulkapi.in/vivo-creed/Sic-Bo.webp"
+  },
+  {
+    "id": 12,
+    "game_name": "Teen Patti",
+    "game_uid": "7839b791ca84cf6798c63073ed16eecf",
+    "game_type": "other",
+    "provider": "Creed",
+    "icon": "https://bulkapi.in/vivo-creed/vivo13.webp"
+  }
+  
+]

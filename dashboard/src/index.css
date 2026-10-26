@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+.checkbox {
+  appearance: none;
+  position: relative;
+  width: 20px;
+  height: 20px;
+  background: #000;
+  border: 1px solid #000;
+  cursor: pointer;
+}
+
+.checkbox:checked {
+  background: #000;
+}
+
+.checkbox:checked::after {
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  left: 4px;
+  top: 4px;
+  background-image: url("../src/assets/checked.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.bg-primary{
+  background-color: #0088CC;
+}
+.text-primary{
+  color: #FFFFFF;
+}
+.bg-secondary{
+  background-color: #2C3E50 !important;
+}
+.bg-secondary85{
+  background-color: #2C3E50D9 !important;
+}
+.bg-secondary70{
+  background-color: #2C3E50B3 !important;
+}
+.text-secondary{
+  color: #FFFFFF !important;
+}

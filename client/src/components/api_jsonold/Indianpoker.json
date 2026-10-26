@@ -1,0 +1,435 @@
+[
+  {
+    "id": 1,
+    "game_name": "Sexy Lucky 7",
+    "game_uid": "03a2171abc81db1bb2e3a714c95f4abe",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/lucky_7.webp"
+  },
+  {
+    "id": 2,
+    "game_name": "Andar Bahar",
+    "game_uid": "c57c0ced1fd67c58daa47d3b6004d6cc",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/andar_bahar.webp"
+  },
+  {
+    "id": 3,
+    "game_name": "32 Cards",
+    "game_uid": "9970d3ec6f0d6d239f30a7c532a7fc9c",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/32_cards.webp"
+  },
+  {
+    "id": 4,
+    "game_name": "Amar Akbar Anthony",
+    "game_uid": "565054bdeb782b5242c47bcbf65c1dc1",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/amar_akbar_anthony.webp"
+  },
+  {
+    "id": 5,
+    "game_name": "3 Cards Judgement",
+    "game_uid": "1c426805e13f435c5141507508c7491a",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/3cj.webp"
+  },
+  {
+    "id": 6,
+    "game_name": "Queen Race",
+    "game_uid": "58753d0d9856bbc02a8aa4ca45c280c8",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/queen.webp"
+  },
+  {
+    "id": 7,
+    "game_name": "Race 20",
+    "game_uid": "f31ba679f8271c01ddb84c42af7ac1f8",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/race_20.webp"
+  },
+  {
+    "id": 8,
+    "game_name": "Casino War",
+    "game_uid": "542a3cd134328c99cca94106889e140e",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/casino_war.webp"
+  },
+  {
+    "id": 9,
+    "game_name": "Worli Matka",
+    "game_uid": "53a4d12a9ecd10037ed61661b7bb869d",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/worli_matka.webp"
+  },
+  {
+    "id": 10,
+    "game_name": "Lottery",
+    "game_uid": "027a46d68b150fcb427beced5ec08ad3",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/lottery.webp"
+  },
+  {
+    "id": 11,
+    "game_name": "Trio",
+    "game_uid": "f46896afc7a3a4a3d1d4ff08a45a48ec",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/trio.webp"
+  },
+  {
+    "id": 12,
+    "game_name": "Bollywood Casino",
+    "game_uid": "c93d32ab8696e24b86f6ea96b415c1e7",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/bollywood_casino.webp"
+  },
+  {
+    "id": 13,
+    "game_name": "Super Over",
+    "game_uid": "8da5d87d6a0c7fa19b6eaf0439c62a68",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/super_over.webp"
+  },
+  {
+    "id": 14,
+    "game_name": "5 Five Cricket",
+    "game_uid": "8d8ba0242de74548b2bf284e01dd0c1c",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/5_five_cricket.webp"
+  },
+  {
+    "id": 15,
+    "game_name": "Dus Ka Dum",
+    "game_uid": "e7e5e1489556ab31a386e271e30c854b",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/10kadum.webp"
+  },
+  {
+    "id": 16,
+    "game_name": "One Card 20 20",
+    "game_uid": "90611bf67cef295595e581e99008eb39",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/1_card_20_20.webp"
+  },
+  {
+    "id": 17,
+    "game_name": "One Card Meter",
+    "game_uid": "baf3899ce5f0da32b3c5de878433a0d0",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/1_card_meter.webp"
+  },
+  {
+    "id": 18,
+    "game_name": "One Card One Day",
+    "game_uid": "13a022b08657f50b41379f20ea1ca15f",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/1c1d.webp"
+  },
+  {
+    "id": 19,
+    "game_name": "Race to 17",
+    "game_uid": "0050eea7c4d25edf7503fb4111b72cb3",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/race_17.webp"
+  },
+  {
+    "id": 19,
+    "game_name": "Note Number",
+    "game_uid": "4f5f606535e8178d7d0151e5fe40b6e8",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/notenumber.webp"
+  },
+  {
+    "id": 20,
+    "game_name": "Cricket Match 20-20",
+    "game_uid": "a9f7c358d2c1ef29406b11675f6bef9f",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/cricket2020.webp"
+  },
+  {
+    "id": 21,
+    "game_name": "High Low",
+    "game_uid": "ea75a51fa8c60d155c142007474d7152",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/high_low.webp"
+  },
+  {
+    "id": 22,
+    "game_name": "10 - 10 cricket",
+    "game_uid": "dd4c2f1b8d5f1b59ebf0e1c5798c3d12",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/10_10_cricket.webp"
+  },
+  {
+    "id": 23,
+    "game_name": "Andar Bahar 50",
+    "game_uid": "10b969e35b3d42c3a8dc8bfc666c2537",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/ab50.webp"
+  },
+  {
+    "id": 24,
+    "game_name": "Super Over",
+    "game_uid": "b11f86112aa04aae953dbd972d9334a9",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/so.webp"
+  },
+  {
+    "id": 25,
+    "game_name": "Center card",
+    "game_uid": "84f0bfc22e638c312d619695e9d54c9c",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/cc.webp"
+  },
+  {
+    "id": 26,
+    "game_name": "Lucky 5",
+    "game_uid": "65a47c67a52cc7cb3feb4f17dbfd50fa",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/lucky5.webp"
+  },
+  {
+    "id": 27,
+    "game_name": "Lucky 7",
+    "game_uid": "83926ba32b3cb89e542ab3dae151126a",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/l7.webp"
+  },
+  {
+    "id": 28,
+    "game_name": "Andar Bahar",
+    "game_uid": "c57c0ced1fd67c58daa47d3b6004d6cc",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/ab.webp"
+  },
+  {
+    "id": 29,
+    "game_name": "32 Cards",
+    "game_uid": "908afb4cad15466560905baaf476fc7d",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/32c.webp"
+  },
+  {
+    "id": 30,
+    "game_name": "Amar Akbar Anthony",
+    "game_uid": "565054bdeb782b5242c47bcbf65c1dc1",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/aaa.webp"
+  },
+  {
+    "id": 31,
+    "game_name": "3 Cards Judgement",
+    "game_uid": "1c426805e13f435c5141507508c7491a",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/3cj.webp"
+  },
+  {
+    "id": 32,
+    "game_name": "Queen Race",
+    "game_uid": "58753d0d9856bbc02a8aa4ca45c280c8",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/queen.webp"
+  },
+  {
+    "id": 33,
+    "game_name": "Race 20",
+    "game_uid": "f31ba679f8271c01ddb84c42af7ac1f8",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/r20.webp"
+  },
+  {
+    "id": 34,
+    "game_name": "Casino War",
+    "game_uid": "be4651db717276b60fc7772ec26a9208",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/cw.webp"
+  },
+  {
+    "id": 35,
+    "game_name": "Worli Matka",
+    "game_uid": "e20fd1d5917c8c79d887a08d0a255374",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/wm.webp"
+  },
+  {
+    "id": 36,
+    "game_name": "Lottery",
+    "game_uid": "9720272e09fb36c251a786cd53738ca5",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/lottery-2.webp"
+  },
+  {
+    "id": 37,
+    "game_name": "Trio",
+    "game_uid": "760cf78c795b6e6dadf8b08b6751c2fe",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/trio-2.webp"
+  },
+  {
+    "id": 38,
+    "game_name": "Bollywood Casino B",
+    "game_uid": "57d4c7e7065a8d62c1e6c30b99bd6096",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/bc.webp"
+  },
+  {
+    "id": 39,
+    "game_name": "Super Over",
+    "game_uid": "6dda02b7471f1d7c83a2f784d38ee31a",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/so-2.webp"
+  },
+  {
+    "id": 40,
+    "game_name": "5 Five Cricket",
+    "game_uid": "97da0f93f35949165d4ecbe3f5599d7d",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/5c.webp"
+  },
+  {
+    "id": 41,
+    "game_name": "Dus Ka Dum",
+    "game_uid": "6d6a7ba2b2e13eb4a5538cca4c486d51",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/dkd.webp"
+  },
+  {
+    "id": 42,
+    "game_name": "One Card 20 20",
+    "game_uid": "b3c5db8cfaeacca56d3d04ddbe63ef5a",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/1c.webp"
+  },
+  {
+    "id": 43,
+    "game_name": "Race to 17",
+    "game_uid": "cc476d50800d73f2206ff10e49d038af",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/race17.webp"
+  },
+  {
+    "id": 44,
+    "game_name": "Note Number",
+    "game_uid": "e3717b821f7b304cb9c3cb6be0bfa013",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/nn.webp"
+  },
+  {
+    "id": 45,
+    "game_name": "Cricket Match 20-20",
+    "game_uid": "031493eae01be1f1f6a3d77b3cb47fa2",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/cm.webp"
+  },
+  {
+    "id": 46,
+    "game_name": "High Low",
+    "game_uid": "43571703ea236608d99fa2021e5805ac",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/hl.webp"
+  },
+  {
+    "id": 47,
+    "game_name": "10 - 10 cricket ",
+    "game_uid": "386eced5c11593bc02bb7d11d8f49d67",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/10c.webp"
+  },
+  {
+    "id": 48,
+    "game_name": "One Card One Day",
+    "game_uid": "2ddda5e4529917bd1ced85e262ec3d56",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/1c1d.webp"
+  },
+  {
+    "id": 49,
+    "game_name": "Center Card",
+    "game_uid": "ae1de4edff38c0644cfeef3ab6882d41",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/cc-2.webp"
+  },
+  {
+    "id": 50,
+    "game_name": "Lucky 5",
+    "game_uid": "2bfa8f7774d00f0202d414c32e9ab59d",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/lucky5.webp"
+  },
+  {
+    "id": 51,
+    "game_name": "Instant Super Over",
+    "game_uid": "2a429c451db5f45e64bedf47cccbfbe1",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/iso.webp"
+  },
+  {
+    "id": 52,
+    "game_name": "Andar Bahar 50",
+    "game_uid": "4d3049fe72cf775f9cf84b49945e59ce",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/ab50.webp"
+  },
+  {
+    "id": 53,
+    "game_name": "High Card",
+    "game_uid": "ea75a51fa8c60d155c142007474d7152",
+    "game_type": "Live",
+    "provider": "Indianpoker",
+    "icon": "https://bulkapi.in/Indianpoker/hc.webp"
+  }
+  
+]

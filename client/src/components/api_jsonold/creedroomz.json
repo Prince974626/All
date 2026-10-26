@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "game_name": "Kickoff Roulette",
+    "game_uid": "d1268c91421be901f78e541e398369c0",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/400040670.jpg"
+  },
+  {
+    "id": 2,
+    "game_name": "Swift Roulette 8 IN ONE",
+    "game_uid": "daa5b3ad44fff5ae5264dd8977a7b525",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/400040324.jpg"
+  },
+  {
+    "id": 3,
+    "game_name": "Roulette A",
+    "game_uid": "5f3de8298a6b8095d28608e4486d2439",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/40003094.jpg"
+  },
+  {
+    "id": 4,
+    "game_name": "Auto Roulette",
+    "game_uid": "196935ee36b9f20b61e55d49d908d0ae",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/40003103.jpg"
+  },
+  {
+    "id": 5,
+    "game_name": "Auto Roulette Speed",
+    "game_uid": "b2f920e742638b0c372a904594be41ee",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/001055.jpg"
+  },
+  {
+    "id": 6,
+    "game_name": "Roulette Armenian",
+    "game_uid": "932bba67ad1155537cfebc466d643cf8",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/40003105.jpg"
+  },
+  {
+    "id": 7,
+    "game_name": "Roulette Turkish",
+    "game_uid": "2263255a13c733773b343a22962b49b6",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/40003105.jpg"
+  },
+  {
+    "id": 8,
+    "game_name": "Roulette Persian",
+    "game_uid": "adb07295910fa799e4cab888c591ed92",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/40003105.jpg"
+  },
+  {
+    "id": 9,
+    "game_name": "Roulette Arabic",
+    "game_uid": "c926199fded355c34b1e82b6c7e249e7",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/40003105.jpg"
+  },
+  {
+    "id": 10,
+    "game_name": "Roulette English B",
+    "game_uid": "05981ecbfdc7cd14cdf08c25a5a802e7",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/40003099.jpg"
+  },
+  {
+    "id": 11,
+    "game_name": "Roulette Pop2",
+    "game_uid": "6249be038123962fa63819cc950c2b2f",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/400040621.jpg"
+  },
+  {
+    "id": 12,
+    "game_name": "Roulette Aurum Pop2",
+    "game_uid": "200f6913ac944b50abcef799bd6b04ab",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/400040006.jpg  "
+  },
+  {
+    "id": 12,
+    "game_name": "Roulette Aurum",
+    "game_uid": "fb72517679e96f6034150f4ddf4503fa",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/40004120.jpg"
+  },
+  {
+    "id": 13,
+    "game_name": "Roulette Speed",
+    "game_uid": "215d4a27bfa8f8e590be1f4c7f4d0e73",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/400040640.jpg"
+  },
+  {
+    "id": 14,
+    "game_name": "Roulette Speed",
+    "game_uid": "215d4a27bfa8f8e590be1f4c7f4d0e73",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/400040638.jpg"
+  },
+  {
+    "id": 15,
+    "game_name": "Roulette A",
+    "game_uid": "5f3de8298a6b8095d28608e4486d2439",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/400040312.jpg"
+  },
+  {
+    "id": 16,
+    "game_name": "Auto Roulette",
+    "game_uid": "196935ee36b9f20b61e55d49d908d0ae",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/400040313.jpg"
+  },
+  {
+    "id": 17,
+    "game_name": "Roulette Armenian",
+    "game_uid": "932bba67ad1155537cfebc466d643cf8",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/400040314.jpg"
+  },
+  {
+    "id": 18,
+    "game_name": "Roulette Turkish",
+    "game_uid": "2263255a13c733773b343a22962b49b6",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/400040315.jpg"
+  },
+  {
+    "id": 19,
+    "game_name": "Roulette Persian",
+    "game_uid": "adb07295910fa799e4cab888c591ed92",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/400040316.jpg"
+  },
+  {
+    "id": 20,
+    "game_name": "Roulette Arabic",
+    "game_uid": "c926199fded355c34b1e82b6c7e249e7",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/400040319.jpg"
+  },
+  {
+    "id": 21,
+    "game_name": "Roulette English B",
+    "game_uid": "05981ecbfdc7cd14cdf08c25a5a802e7",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/40003099.jpg"
+  },
+  {
+    "id": 22,
+    "game_name": "Roulette Pop2",
+    "game_uid": "6249be038123962fa63819cc950c2b2f",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/400040629.jpg"
+  },
+  {
+    "id": 23,
+    "game_name": "Auto Roulette Speed",
+    "game_uid": "b2f920e742638b0c372a904594be41ee",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/400040640.jpg"
+  },
+  {
+    "id": 24,
+    "game_name": "Roulette Speed Aurum",
+    "game_uid": "214456b1fff68e0acadd5faa6c1a8a10",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/400040640.jpg"
+  },
+  {
+    "id": 25,
+    "game_name": "Brasileira Roulette",
+    "game_uid": "6a2d9034f287c8fe1ca5b5abd5ffdc49",
+    "game_type": "Roulette",
+    "provider": "Creedroomz",
+    "icon": "https://bulkapi.in/creedz/400040782.jpg"
+  }
+  
+]

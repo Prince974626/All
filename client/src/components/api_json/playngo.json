@@ -1,0 +1,2186 @@
+[
+  {
+    "id": 1,
+    "game_name": "Sparky&Shortz",
+    "game_uid": "50a248ea2542e62a1a796d2b1e121de6",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG5 SparkyShortz.png"
+  },
+  {
+    "id": 2,
+    "game_name": "Muerto en Mictlan",
+    "game_uid": "f5a5294357d78653567c392b8f386bf6",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG6 Muerto en Mictlan.png"
+  },
+  {
+    "id": 3,
+    "game_name": "Beasts of Fire",
+    "game_uid": "ad9c45d8bed86115afea828f362b1421",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG7 Beasts of Fire.png"
+  },
+  {
+    "id": 4,
+    "game_name": "Bull in a Rodeo",
+    "game_uid": "790c55c939b8c4beb01a5a0fd9ab9268",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG8 Bull in a Rodeo.png"
+  },
+  {
+    "id": 5,
+    "game_name": "Tales of Asgard: Loki's Fortune",
+    "game_uid": "e2b7db849dbf6fa77303ff05412d7ab9",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG9 Tales of Asgard Loki_s Fortune.png"
+  },
+  {
+    "id": 6,
+    "game_name": "Merlin and the Ice Queen Morgana",
+    "game_uid": "82be129aa1a06d7cfa6cb8dfe68d2645",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG10 Merlin and the Ice Queen Morgana.png"
+  },
+  {
+    "id": 7,
+    "game_name": "Cat Wilde and the Lost Chapter",
+    "game_uid": "fe30f84e42e82fb4a31cffb271d73a51",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG11 Cat Wilde and the Lost Chapter.png"
+  },
+  {
+    "id": 8,
+    "game_name": "Gigantoonz",
+    "game_uid": "8650281b7cb4e707acad09774b45b84a",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG12 Gigantoonz.png"
+  },
+  {
+    "id": 9,
+    "game_name": "Moon Princess: Christmas Kingdom",
+    "game_uid": "ea6ee43262e53deb1990393fa9a06103",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG13 Moon Princess Christmas Kingdom.png"
+  },
+  {
+    "id": 10,
+    "game_name": "Love Joker",
+    "game_uid": "dd40b1b10dc69ed698ebc55d3f0dc567",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG14 Love Joker.png"
+  },
+  {
+    "id": 11,
+    "game_name": "The Last Sundown",
+    "game_uid": "99f0a52139f0e7a0af9117554f43536d",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG15 The Last Sundown.png"
+  },
+  {
+    "id": 12,
+    "game_name": "15 Crystal Roses: A Tale of Love",
+    "game_uid": "6b072dcb3eedf445e0260fc2d2e83316",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG16 15 Crystal Roses A Tale of Love.png"
+  },
+  {
+    "id": 13,
+    "game_name": "Tale of Kyubiko",
+    "game_uid": "bc82afddb6d24ef891f70d7b1c9a3106",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG17 Tale of Kyubiko.png"
+  },
+  {
+    "id": 14,
+    "game_name": "Rich Wilde and the Wandering City",
+    "game_uid": "55510a4d01b521a72a7e20848e142bdf",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG18 Rich Wilde and the Wandering City.png"
+  },
+  {
+    "id": 15,
+    "game_name": "Captain Xeno's Earth Adventure",
+    "game_uid": "a0b7345b4699ab37d93c8815e7d99d13",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG19 Captain Xeno_s Earth Adventure.png"
+  },
+  {
+    "id": 16,
+    "game_name": "Hooligan Hustle",
+    "game_uid": "8e3e1afd890266cb34e2a8994bd38ed2",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG20 Hooligan Hustle.png"
+  },
+  {
+    "id": 17,
+    "game_name": "Raging Rex 2",
+    "game_uid": "9cf7b04a911896e8e13aac62ef1682ba",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG21 Raging Rex 2.png"
+  },
+  {
+    "id": 18,
+    "game_name": "Safari of Wealth",
+    "game_uid": "278389ee41407bab6092e388257346b9",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG22 Safari of Wealth.png"
+  },
+  {
+    "id": 19,
+    "game_name": "Secret of Dead",
+    "game_uid": "ea30e0dc6c93bc21459f7c45a371ab91",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG23 Secret of Dead.png"
+  },
+  {
+    "id": 20,
+    "game_name": "Tales of Asgard: Freya's Wedding",
+    "game_uid": "a2942bb4945ef9b8170acf713177a721",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG24 Tales of Asgard Freya_s Wedding.png"
+  },
+  {
+    "id": 21,
+    "game_name": "Puebla Parade",
+    "game_uid": "824a43d254bf89ebec0c2e3800713a35",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG25 Puebla Parade.png"
+  },
+  {
+    "id": 22,
+    "game_name": "Moon Princess 100",
+    "game_uid": "b723f5238f1ff6816c725c0ecb400c67",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG26 Moon Princess 100.png"
+  },
+  {
+    "id": 23,
+    "game_name": "Idol of Fortune",
+    "game_uid": "ba6566bce43702a5398decb1fcc01b59",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG27 Idol of Fortune.png"
+  },
+  {
+    "id": 24,
+    "game_name": "Forge of Gems",
+    "game_uid": "0932ea849be274ff5ae4da3a7c44cffa",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG28 Forge of Gems.png"
+  },
+  {
+    "id": 25,
+    "game_name": "Fat Frankies",
+    "game_uid": "d9da996edfe9cd68b32fd2e7cde00fd4",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG29 Fat Frankies.png"
+  },
+  {
+    "id": 26,
+    "game_name": "Eye of Atum",
+    "game_uid": "62766fe321045f1637fcbd925ad1fb63",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG30 Eye of Atum.png"
+  },
+  {
+    "id": 27,
+    "game_name": "Animal Madness",
+    "game_uid": "4d322fc10f41306a221c63df5ac84500",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG31 Animal Madness.png"
+  },
+  {
+    "id": 28,
+    "game_name": "Cash of Command",
+    "game_uid": "09a2d876c28540cf122bba072f8ffb16",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG32 Cash of Command.png"
+  },
+  {
+    "id": 29,
+    "game_name": "Cat Wilde and the Pyramids of Dead",
+    "game_uid": "9a1a83e60432df6c05c17b6c09a1d7aa",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG33 Cat Wilde and the Pyramids of Dead.png"
+  },
+  {
+    "id": 30,
+    "game_name": "Champions of Mithrune",
+    "game_uid": "65587840ef2d8d3b90c6f1cd19d278f2",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG34 Champions of Mithrune.png"
+  },
+  {
+    "id": 31,
+    "game_name": "Charlie Chance and the Curse of Cleopatra",
+    "game_uid": "f3883d409c9125e3781faddab0d09ee3",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG35 Charlie Chance and the Curse of Cleopatra.png"
+  },
+  {
+    "id": 32,
+    "game_name": "Derby Wheel",
+    "game_uid": "b92f03933a0b2ddb75f1055cbcfa0ac5",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG36 Derby Wheel.png"
+  },
+  {
+    "id": 33,
+    "game_name": "Forge of Fortunes",
+    "game_uid": "acb0775f641f765421de58f48a4a4de0",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG37 Forge of Fortunes.png"
+  },
+  {
+    "id": 34,
+    "game_name": "Fortune Rewind",
+    "game_uid": "a56191619b35626ad2e62ced9e840173",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG38 Fortune Rewind.png"
+  },
+  {
+    "id": 35,
+    "game_name": "Gates of Troy",
+    "game_uid": "1f33db1a0f4ca4699dd7cdb427f2b57a",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG39 Gates of Troy.png"
+  },
+  {
+    "id": 36,
+    "game_name": "Immortails of Egypt",
+    "game_uid": "c9c6e4e64cb322cbdf4488f110ab577a",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG40 Immortails of Egypt.png"
+  },
+  {
+    "id": 37,
+    "game_name": "King's Mask",
+    "game_uid": "0dbcfb1dae8c1ca0f6adcb37abad5318",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG41 King_s Mask.png"
+  },
+  {
+    "id": 38,
+    "game_name": "Leprechaun's Vault",
+    "game_uid": "18bdfc9546627412b6f9e1c00343589c",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG42 Leprechaun_s Vault.png"
+  },
+  {
+    "id": 39,
+    "game_name": "Mega Don",
+    "game_uid": "14acbf2ef6569c68794675241665bd28",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG43 Mega Don.png"
+  },
+  {
+    "id": 40,
+    "game_name": "Merlin's Grimoire",
+    "game_uid": "d20b52e4181bb272739d66ae00c6d809",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG44 Merlin_s Grimoire.png"
+  },
+  {
+    "id": 41,
+    "game_name": "Mount M",
+    "game_uid": "687aacc4e3d7812942c26cc04af557ff",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG45 Mount M.png"
+  },
+  {
+    "id": 42,
+    "game_name": "Rise of Gods: Reckoning",
+    "game_uid": "79f20a8b34c76f3614ebb59473f7a680",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG46 Rise of Gods Reckoning.png"
+  },
+  {
+    "id": 43,
+    "game_name": "Rocco Gallo",
+    "game_uid": "06a472c2a59b35ff0ae92254770e778f",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG47 Rocco Gallo.png"
+  },
+  {
+    "id": 44,
+    "game_name": "Rotiki",
+    "game_uid": "547cfdbb534bf30e8f139c2c177db55a",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG48 Rotiki.png"
+  },
+  {
+    "id": 45,
+    "game_name": "Wild Trigger",
+    "game_uid": "229a79586252112eea2c2bee0e3ce2e2",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG49 Wild Trigger.png"
+  },
+  {
+    "id": 46,
+    "game_name": "The Shimmering Woods",
+    "game_uid": "796e07a02452f884c2b02a95699560e0",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG50 The Shimmering Woods.png"
+  },
+  {
+    "id": 47,
+    "game_name": "Rich Wilde & The Shield of Athena",
+    "game_uid": "1b3cbdd3d76e5673712ab7f9eb2535e3",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG51 Rich Wilde The Shield of Athena.png"
+  },
+  {
+    "id": 48,
+    "game_name": "Rabbit Hole Riches - Court of Hearts",
+    "game_uid": "118791235917848fe0f1642177f17421",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG52 Rabbit Hole Riches - Court of Hearts.png"
+  },
+  {
+    "id": 49,
+    "game_name": "Pack & Cash",
+    "game_uid": "03b37d93b45d616adbd11ca392618a6e",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG53 Pack Cash.png"
+  },
+  {
+    "id": 50,
+    "game_name": "Xmas Magic",
+    "game_uid": "15ab10c0b440c230a656f827394f6cab",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG54 Xmas Magic.png"
+  },
+  {
+    "id": 51,
+    "game_name": "Xmas Joker",
+    "game_uid": "9150986fe0151f255531e0d4dd18fb8d",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG55 Xmas Joker.png"
+  },
+  {
+    "id": 52,
+    "game_name": "Wizard of Gems",
+    "game_uid": "a0e69d5330afd86b1f34a3b62ce63837",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG56 Wizard of Gems.png"
+  },
+  {
+    "id": 53,
+    "game_name": "Wildhound Derby",
+    "game_uid": "4e3d9034b093ca485c275a32bb39d5f0",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG58 Wildhound Derby.png"
+  },
+  {
+    "id": 54,
+    "game_name": "Wild Rails",
+    "game_uid": "de363a2ed151dd523f4b908ec25aa209",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG59 Wild Rails.png"
+  },
+  {
+    "id": 55,
+    "game_name": "Wild North",
+    "game_uid": "98157e6f0d42481e51daf8214ee76238",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG60 Wild North.png"
+  },
+  {
+    "id": 56,
+    "game_name": "Wild Melon",
+    "game_uid": "2e502bd86cf9513a37e48ddc3cba1860",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG61 Wild Melon.png"
+  },
+  {
+    "id": 57,
+    "game_name": "Wild Frames",
+    "game_uid": "e1bdc29000a86056693a4e594d837e0f",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG62 Wild Frames.png"
+  },
+  {
+    "id": 58,
+    "game_name": "Wild Falls",
+    "game_uid": "99aeb76e82407df948ad2dbaa7493b1a",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG63 Wild Falls.png"
+  },
+  {
+    "id": 59,
+    "game_name": "Wild Blood 2",
+    "game_uid": "1ede1563e18d3987323d14fba4dff7b0",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG64 Wild Blood 2.png"
+  },
+  {
+    "id": 60,
+    "game_name": "Wild Blood",
+    "game_uid": "d89f26f6172e5166c0a04e4c2bb6131d",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG65 Wild Blood.png"
+  },
+  {
+    "id": 61,
+    "game_name": "Viking Runecraft",
+    "game_uid": "f8e3d25cd3d95c5579d962a97e1db2d4",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG66 Viking Runecraft.png"
+  },
+  {
+    "id": 62,
+    "game_name": "Troll Hunters 2",
+    "game_uid": "c5115e780fdc50d8ac56f0f3113beea7",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG67 Troll Hunters 2.png"
+  },
+  {
+    "id": 63,
+    "game_name": "Troll Hunters",
+    "game_uid": "27e456a0ce4d5713d380b85641277cb9",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG68 Troll Hunters.png"
+  },
+  {
+    "id": 64,
+    "game_name": "Tower Quest",
+    "game_uid": "6c9d9a84655fb02d26c14eee339adb45",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG69 Tower Quest.png"
+  },
+  {
+    "id": 65,
+    "game_name": "Tome of Madness",
+    "game_uid": "8503af904a008d9295f43864fe3d3deb",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG70 Tome of Madness.png"
+  },
+  {
+    "id": 66,
+    "game_name": "Thunder Screech",
+    "game_uid": "84c2c8edaaca41355717cbe9a2216375",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG71 Thunder Screech.png"
+  },
+  {
+    "id": 67,
+    "game_name": "The Wild Class",
+    "game_uid": "e51980e686194a43bf75825358cd09c9",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG72 The Wild Class.png"
+  },
+  {
+    "id": 68,
+    "game_name": "The Sword and The Grail",
+    "game_uid": "e4d6ba65672d128a8e5527a88dfdd998",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG73 The Sword and The Grail.png"
+  },
+  {
+    "id": 69,
+    "game_name": "The Paying Piano Club",
+    "game_uid": "9456a8c8055e50f26e31048c8d34bada",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG74 The Paying Piano Club.png"
+  },
+  {
+    "id": 70,
+    "game_name": "The Green Knight",
+    "game_uid": "5f355bbe7a31e6c5fbced2ff37807222",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG75 The Green Knight.png"
+  },
+  {
+    "id": 71,
+    "game_name": "The Faces of Freya",
+    "game_uid": "867772e1c56cda57b7f9dce11b1ecf4b",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG76 The Faces of Freya.png"
+  },
+  {
+    "id": 72,
+    "game_name": "That's Rich",
+    "game_uid": "11181d1489ee86dfb4a178a5658c0c64",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG77 That_s Rich.png"
+  },
+  {
+    "id": 73,
+    "game_name": "Testament",
+    "game_uid": "cce54088bb159d2f46f50c0e6522cb0f",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG78 Testament.png"
+  },
+  {
+    "id": 74,
+    "game_name": "Sweet Alchemy",
+    "game_uid": "fa4449fb5e009fde3a06b9b918d38a07",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG79 Sweet Alchemy.png"
+  },
+  {
+    "id": 75,
+    "game_name": "Sweet 27",
+    "game_uid": "34945fb299c86a5dbf3527c71c47e5c7",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG80 Sweet 27.png"
+  },
+  {
+    "id": 76,
+    "game_name": "Super Flip",
+    "game_uid": "464ca8dd0b1aac897ef99633e9e3686d",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG81 Super Flip.png"
+  },
+  {
+    "id": 77,
+    "game_name": "Street Magic",
+    "game_uid": "c86ddb116a70c32d4cd3d6d01d327d77",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG82 Street Magic.png"
+  },
+  {
+    "id": 78,
+    "game_name": "Sticky Joker",
+    "game_uid": "8b189f936168df18327619a90ae163cb",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG83 Sticky Joker.png"
+  },
+  {
+    "id": 79,
+    "game_name": "Star Joker",
+    "game_uid": "2cd76630ae1d399c824c7668d4213421",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG84 Star Joker.png"
+  },
+  {
+    "id": 80,
+    "game_name": "Spin Party",
+    "game_uid": "6b2d491454ab86deb154212efb641f38",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG85 Spin Party.png"
+  },
+  {
+    "id": 81,
+    "game_name": "Space Race",
+    "game_uid": "8b6cac6351081e667ccafde1ff8d1c4b",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG86 Space Race.png"
+  },
+  {
+    "id": 82,
+    "game_name": "Sizzling Spins",
+    "game_uid": "0671b0b4cf395ac6c12ffc68ac7ba502",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG87 Sizzling Spins.png"
+  },
+  {
+    "id": 83,
+    "game_name": "Sisters of the Sun",
+    "game_uid": "fbdda31e78721d43929b098d99851eb3",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG88 Sisters of the Sun.png"
+  },
+  {
+    "id": 84,
+    "game_name": "Sea Hunter",
+    "game_uid": "cc9bf4003089471c01f3be2a33dbc4a4",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG89 Sea Hunter.png"
+  },
+  {
+    "id": 85,
+    "game_name": "Scroll of Dead",
+    "game_uid": "a66475aaa5f2227bed805928c0269391",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG90 Scroll of Dead.png"
+  },
+  {
+    "id": 86,
+    "game_name": "Samba Carnival",
+    "game_uid": "ecb2b02085050eaa1e089ab5682eba96",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG91 Samba Carnival.png"
+  },
+  {
+    "id": 87,
+    "game_name": "Sails of Gold",
+    "game_uid": "6ed6f085297156a56d544037fd9263a8",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG92 Sails of Gold.png"
+  },
+  {
+    "id": 88,
+    "game_name": "Sabaton",
+    "game_uid": "070807f4b82eb5d4c21ee85308065c8f",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG93 Sabaton.png"
+  },
+  {
+    "id": 89,
+    "game_name": "Royal Masquerade",
+    "game_uid": "18e369e8b2b16f09a1dc4d1cc3a13502",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG94 Royal Masquerade.png"
+  },
+  {
+    "id": 90,
+    "game_name": "Rise of Olympus",
+    "game_uid": "39148292c460e1672c4e7842d8219720",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG95 Rise of Olympus.png"
+  },
+  {
+    "id": 91,
+    "game_name": "Rise of Merlin",
+    "game_uid": "3de84274a7f86f60b1cb91e4b9d62f3e",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG96 Rise of Merlin.png"
+  },
+  {
+    "id": 92,
+    "game_name": "Rise of Dead",
+    "game_uid": "d9387a2cc35967b4db9dbb303fc29e53",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG97 Rise of Dead.png"
+  },
+  {
+    "id": 93,
+    "game_name": "Rise of Athena",
+    "game_uid": "50c982a411168606347e74d6a3b6113e",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG98 Rise of Athena.png"
+  },
+  {
+    "id": 94,
+    "game_name": "Ring of Odin",
+    "game_uid": "f6d3f838144e3c9d4dc0d163c8fcc809",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG99 Ring of Odin.png"
+  },
+  {
+    "id": 95,
+    "game_name": "Riddle Reels: A Case of Riches",
+    "game_uid": "ff113c3698c361db1eaafb497f4ee60b",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG100 Riddle Reels A Case of Riches.png"
+  },
+  {
+    "id": 96,
+    "game_name": "Riches of Robin",
+    "game_uid": "b115e9196717d84a0b7855194f4e25aa",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG101 Riches of Robin.png"
+  },
+  {
+    "id": 97,
+    "game_name": "Riches of RA",
+    "game_uid": "fbd35b5ef4f56acb078a0cd46f4369c9",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG102 Riches of RA.png"
+  },
+  {
+    "id": 98,
+    "game_name": "Rich Wilde and the Amulet of Dead",
+    "game_uid": "51ff0d5b0b0b8a69b1162ef3fec53604",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG103 Rich Wilde and the Amulet of Dead.png"
+  },
+  {
+    "id": 99,
+    "game_name": "Reactoonz 2",
+    "game_uid": "c18ee1f9e4ca0daa4f0e96e5ae7d3e28",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG104 Reactoonz 2.png"
+  },
+  {
+    "id": 100,
+    "game_name": "Reactoonz",
+    "game_uid": "9220e3bd183d3204a73752291d97c5c4",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG105 Reactoonz.png"
+  },
+  {
+    "id": 101,
+    "game_name": "Rally 4 Riches",
+    "game_uid": "7c446d9bb64727944100b88d56587fc4",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG106 Rally 4 Riches.png"
+  },
+  {
+    "id": 102,
+    "game_name": "Rainforest Magic",
+    "game_uid": "531d5337e2ee4c45eaeb94e7827fe151",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG107 Rainforest Magic.png"
+  },
+  {
+    "id": 103,
+    "game_name": "Raging Rex",
+    "game_uid": "4d3b755fe2cbe61e4100e2ab41c4bd70",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG108 Raging Rex.png"
+  },
+  {
+    "id": 104,
+    "game_name": "Rage to Riches",
+    "game_uid": "6efd92e1fc1e73c0308124bf29d71c43",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG109 Rage to Riches.png"
+  },
+  {
+    "id": 105,
+    "game_name": "Rabbit Hole Riches",
+    "game_uid": "65f70ee0082c12e8a600cc2daf087b55",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG110 Rabbit Hole Riches.png"
+  },
+  {
+    "id": 106,
+    "game_name": "Queen's Day Tilt",
+    "game_uid": "f732889b38329ee27b10a9069c5ad5da",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG111 Queen_s Day Tilt.png"
+  },
+  {
+    "id": 107,
+    "game_name": "Prosperity Palace",
+    "game_uid": "1ed3f5bb7e9490a85d79c64af10c712c",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG112 Prosperity Palace.png"
+  },
+  {
+    "id": 108,
+    "game_name": "Prissy Princess",
+    "game_uid": "dda85dfb264c41ef2a853c68ab3e42d7",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG113 Prissy Princess.png"
+  },
+  {
+    "id": 109,
+    "game_name": "Prism of Gems",
+    "game_uid": "82ad9793dc6ab9fd4360f93497fc5648",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG114 Prism of Gems.png"
+  },
+  {
+    "id": 110,
+    "game_name": "Planet Fortune",
+    "game_uid": "7063e1200e59749586e1e1769066a78d",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG115 Planet Fortune.png"
+  },
+  {
+    "id": 111,
+    "game_name": "Pimped",
+    "game_uid": "39ec581019087fa9bb756f1416d51e2c",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG116 Pimped.png"
+  },
+  {
+    "id": 112,
+    "game_name": "Piggy Bank Farm",
+    "game_uid": "836155eb67c7beb3e4c37ff087c98e37",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG117 Piggy Bank Farm.png"
+  },
+  {
+    "id": 113,
+    "game_name": "Photo Safari",
+    "game_uid": "3d8a33273521e7e5f4c5cd0b9a7199d1",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG118 Photo Safari.png"
+  },
+  {
+    "id": 114,
+    "game_name": "Phoenix Reborn",
+    "game_uid": "866678489c4ed1fa0e48e7d1a8289bb9",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG119 Phoenix Reborn.png"
+  },
+  {
+    "id": 115,
+    "game_name": "Perfect Gems",
+    "game_uid": "6d2db5e48cfc255e6ba7ff96710b96c2",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG120 Perfect Gems.png"
+  },
+  {
+    "id": 116,
+    "game_name": "Pearls of India",
+    "game_uid": "5cafd62da791635aa14aa8fcd0f3d195",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG121 Pearls of India.png"
+  },
+  {
+    "id": 117,
+    "game_name": "Pearl Lagoon",
+    "game_uid": "4beb5c6773fbb942231abf8e68beff17",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG122 Pearl Lagoon.png"
+  },
+  {
+    "id": 118,
+    "game_name": "Odin: Protector of Realms",
+    "game_uid": "f311ab89f3e00004b95e45755920c3e0",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG 384 Odin Protector of Realms.png"
+  },
+  {
+    "id": 119,
+    "game_name": "Octopus Treasure",
+    "game_uid": "d17dfa2381a6f6842d68e8a03a7998f4",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG124 Octopus Treasure.png"
+  },
+  {
+    "id": 120,
+    "game_name": "Ninja Fruits",
+    "game_uid": "fff93759288e8a576c447f2d308f1f35",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG125 Ninja Fruits.png"
+  },
+  {
+    "id": 121,
+    "game_name": "New Year Riches",
+    "game_uid": "da8632f2897f882b983a5eff5bd6165e",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG126 New Year Riches.png"
+  },
+  {
+    "id": 122,
+    "game_name": "Myth",
+    "game_uid": "cbaa3f8d449de40ed8457a16609ef607",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG127 Myth.png"
+  },
+  {
+    "id": 123,
+    "game_name": "Mystery Joker 6000",
+    "game_uid": "a55167bb3d55a534aa9ecbffe6a51bae",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG128 Mystery Joker 6000.png"
+  },
+  {
+    "id": 124,
+    "game_name": "Mystery Joker",
+    "game_uid": "21f746a85bc239242ad3529a78e69c6c",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG129 Mystery Joker.png"
+  },
+  {
+    "id": 125,
+    "game_name": "MULTIFRUIT 81",
+    "game_uid": "569689cfad567afc13dd99809a0a2ff3",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG130 MULTIFRUIT 81.png"
+  },
+  {
+    "id": 126,
+    "game_name": "Moon Princess",
+    "game_uid": "d11b2c8c5c06dc4eabc23365e518b4df",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG131 Moon Princess.png"
+  },
+  {
+    "id": 127,
+    "game_name": "Mission Cash",
+    "game_uid": "128ee561dbb06edd7b479e7f252c5c65",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG132 Mission Cash.png"
+  },
+  {
+    "id": 128,
+    "game_name": "Miner Donkey Trouble",
+    "game_uid": "855ca302b5ca62dfd64f5d76f811c726",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG133 Miner Donkey Trouble.png"
+  },
+  {
+    "id": 129,
+    "game_name": "Merry Xmas",
+    "game_uid": "d7be07be70a39404eb1fbf6d517865ec",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG134 Merry Xmas.png"
+  },
+  {
+    "id": 130,
+    "game_name": "Mermaid's Diamond",
+    "game_uid": "387f787d34fc84d8e3236e0c33558511",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG135 Mermaid_s Diamond.png"
+  },
+  {
+    "id": 131,
+    "game_name": "Matsuri",
+    "game_uid": "9b9a74922ea873d8db1f987e6d8b76fa",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG136 Matsuri.png"
+  },
+  {
+    "id": 132,
+    "game_name": "Mahjong 88",
+    "game_uid": "5e9ba83749938f679015ab52792bbc83",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG137 Mahjong 88.png"
+  },
+  {
+    "id": 133,
+    "game_name": "Madame Ink",
+    "game_uid": "457e92720e858c2e10f57dc08f2782e9",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG138 Madame Ink.png"
+  },
+  {
+    "id": 134,
+    "game_name": "Lucky Diamonds",
+    "game_uid": "376b56a86b912e6b4c9f923fc59f09c9",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG139 Lucky Diamonds.png"
+  },
+  {
+    "id": 135,
+    "game_name": "Lord Merlin and The Lady of The Lake",
+    "game_uid": "6fa984c43c70f651d7a13fc18da4ac34",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG140 Lord Merlin and The Lady of The Lake.png"
+  },
+  {
+    "id": 136,
+    "game_name": "Leprechaun Goes Wild",
+    "game_uid": "9b4b08846bf9cd3b93e94f490cc679cc",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG141 Leprechaun Goes Wild.png"
+  },
+  {
+    "id": 137,
+    "game_name": "Leprechaun goes Egypt",
+    "game_uid": "37011c3aaffd890976ae2440c3c76fe2",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG142 Leprechaun goes Egypt.png"
+  },
+  {
+    "id": 138,
+    "game_name": "Legend of the Ice Dragon",
+    "game_uid": "ac1d9584b31de3aa82450c448b48353a",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG143 Legend of the Ice Dragon.png"
+  },
+  {
+    "id": 139,
+    "game_name": "Legacy of Egypt",
+    "game_uid": "8c87c69116421e858444cc21c094e89c",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG144 Legacy of Egypt.png"
+  },
+  {
+    "id": 140,
+    "game_name": "Legacy of Dead",
+    "game_uid": "7f5dff9722e6d4f1f43fa90ede37379a",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG145 Legacy of Dead.png"
+  },
+  {
+    "id": 141,
+    "game_name": "Lady of Fortune",
+    "game_uid": "102240504920532e155b5e57943034ac",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG146 Lady of Fortune.png"
+  },
+  {
+    "id": 142,
+    "game_name": "Jolly Roger 2",
+    "game_uid": "210bf85121d325dfeff6bb843188a8f9",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG147 Jolly Roger 2.png"
+  },
+  {
+    "id": 143,
+    "game_name": "Jolly Roger",
+    "game_uid": "11bd8134d43b9566ebf18b004a317a7e",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG148 Jolly Roger.png"
+  },
+  {
+    "id": 144,
+    "game_name": "Joker Poker MH",
+    "game_uid": "4930f98adb3d84a7008e70a720094f91",
+    "game_type": "Poker",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG149 Joker Poker MH.png"
+  },
+  {
+    "id": 145,
+    "game_name": "Jewel Box",
+    "game_uid": "26fd8eb81649f1ac7db3c10658b22a15",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG150 Jewel Box.png"
+  },
+  {
+    "id": 146,
+    "game_name": "Jade Magician",
+    "game_uid": "3972451063ff413eb9dbea9336d6f1b4",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG151 Jade Magician.png"
+  },
+  {
+    "id": 147,
+    "game_name": "Jacks or Better MH",
+    "game_uid": "3a4d78d5342d86d528c8688340dbad48",
+    "game_type": "Poker",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG152 Jacks or Better MH.png"
+  },
+  {
+    "id": 148,
+    "game_name": "Iron Girl",
+    "game_uid": "090e669c9b40bfd3879516f34e33b72d",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG153 Iron Girl.png"
+  },
+  {
+    "id": 149,
+    "game_name": "Irish Gold",
+    "game_uid": "74c2d2e8fc0ba9191dbf2300d752f059",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG154 Irish Gold.png"
+  },
+  {
+    "id": 150,
+    "game_name": "Inferno Star",
+    "game_uid": "8cfa5114a78b7e606bcce4b4301b34de",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG155 Inferno Star.png"
+  },
+  {
+    "id": 151,
+    "game_name": "Inferno Joker",
+    "game_uid": "c88bd51e0b3e0743db3971e244bc9bd6",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG156 Inferno Joker.png"
+  },
+  {
+    "id": 152,
+    "game_name": "Imperial Opera",
+    "game_uid": "0a0145a62ff89cd92a39fe70ace31e99",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG157 Imperial Opera.png"
+  },
+  {
+    "id": 153,
+    "game_name": "Ice Joker",
+    "game_uid": "28348e1003596c311d0de98d877b2df0",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG158 Ice Joker.png"
+  },
+  {
+    "id": 154,
+    "game_name": "House of Doom 2: The Crypt",
+    "game_uid": "19a19806b31b0cf779fdffa1789763a5",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG159 House of Doom 2 The Crypt.png"
+  },
+  {
+    "id": 155,
+    "game_name": "House of Doom",
+    "game_uid": "968d480c5cf034f7e919eae44b76f736",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG160 House of Doom.png"
+  },
+  {
+    "id": 156,
+    "game_name": "Hotel Yeti-Way",
+    "game_uid": "9cf8b513a3cdf989778957ed55d7ef05",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG161 Hotel Yeti-Way.png"
+  },
+  {
+    "id": 157,
+    "game_name": "Honey Rush",
+    "game_uid": "10f0a57213c2b54d79f97f7f10538704",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG 378 Honey Rush.png"
+  },
+  {
+    "id": 158,
+    "game_name": "Holiday Spirits",
+    "game_uid": "e9e4ee2e0326d7c0a55e25d4d1ebb4b8",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG163 Holiday Spirits.png"
+  },
+  {
+    "id": 159,
+    "game_name": "Holiday Season",
+    "game_uid": "e09b831c8074bf70c2a6ea309986feac",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG164 Holiday Season.png"
+  },
+  {
+    "id": 160,
+    "game_name": "Happy Halloween",
+    "game_uid": "754376213554eb667107abc02377a2e9",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG165 Happy Halloween.png"
+  },
+  {
+    "id": 161,
+    "game_name": "Grim Muerto",
+    "game_uid": "bdbcbfb1a65b28a3792df2315b0ea378",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG166 Grim Muerto.png"
+  },
+  {
+    "id": 162,
+    "game_name": "Golden Ticket 2",
+    "game_uid": "363a8d93595f145e84a6d39a049d7b4d",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG167 Golden Ticket 2.png"
+  },
+  {
+    "id": 163,
+    "game_name": "Golden Ticket",
+    "game_uid": "ecfbed6fc2a41f607eb489f7f07d8010",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG168 Golden Ticket.png"
+  },
+  {
+    "id": 164,
+    "game_name": "Golden Osiris",
+    "game_uid": "b5b97b2f0faa8278ffeca2c595bc783e",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG169 Golden Osiris.png"
+  },
+  {
+    "id": 165,
+    "game_name": "Golden Legend",
+    "game_uid": "fa2b737caf78e8525814e4032a4b2064",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG170 Golden Legend.png"
+  },
+  {
+    "id": 166,
+    "game_name": "Golden Colts",
+    "game_uid": "af3835e95209ace6967688a73775e4a0",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG171 Golden Colts.png"
+  },
+  {
+    "id": 167,
+    "game_name": "Golden Caravan",
+    "game_uid": "3af7c7161e5a71eb645bdf95f75d924b",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG172 Golden Caravan.png"
+  },
+  {
+    "id": 168,
+    "game_name": "Gold Volcano",
+    "game_uid": "cbdad9c233e5b05fde3f6e7685e77ddd",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG173 Gold Volcano.png"
+  },
+  {
+    "id": 169,
+    "game_name": "Gold King",
+    "game_uid": "55894afe4590f28b6775f5c0eed74351",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG174 Gold King.png"
+  },
+  {
+    "id": 170,
+    "game_name": "Ghost of Dead",
+    "game_uid": "f6b7f03507bdbdb9930cf6353a02d31c",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG175 Ghost of Dead.png"
+  },
+  {
+    "id": 171,
+    "game_name": "Gemix 2",
+    "game_uid": "0cd9304ac9b473a06b84830786cc252e",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG176 Gemix 2.png"
+  },
+  {
+    "id": 172,
+    "game_name": "Gemix",
+    "game_uid": "a1f641e1740c59df483c1bb3cc509b87",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG177 Gemix.png"
+  },
+  {
+    "id": 173,
+    "game_name": "Game of Gladiators",
+    "game_uid": "e73fc1a388044ca1e0c8a8cf65892fab",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG178 Game of Gladiators.png"
+  },
+  {
+    "id": 174,
+    "game_name": "FU ER DAI",
+    "game_uid": "eb79d0bccb7bb2490ab4c7627012f05f",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG179 FU ER DAI.png"
+  },
+  {
+    "id": 175,
+    "game_name": "Frozen Gems",
+    "game_uid": "e5ff051c80173036b4cb204b430616d9",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG180 Frozen Gems.png"
+  },
+  {
+    "id": 176,
+    "game_name": "Free Reelin' Joker",
+    "game_uid": "ddde140684b30d41c0ca8d5eee5bb35a",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG181 Free Reelin_ Joker.png"
+  },
+  {
+    "id": 177,
+    "game_name": "Fortunes of Ali Baba",
+    "game_uid": "c8ab9afb873d7135f4cdd51447e93047",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG182 Fortunes of Ali Baba.png"
+  },
+  {
+    "id": 178,
+    "game_name": "Fortune Teller",
+    "game_uid": "724bd9a9f657cffd38be5579c2d6406b",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG183 Fortune Teller.png"
+  },
+  {
+    "id": 179,
+    "game_name": "Firefly Frenzy",
+    "game_uid": "c66701f9dbaf117f290aac0c3f8730e8",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG184 Firefly Frenzy.png"
+  },
+  {
+    "id": 180,
+    "game_name": "Fire Toad",
+    "game_uid": "d332041fb7162a5774178774d7a51a79",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG185 Fire Toad.png"
+  },
+  {
+    "id": 181,
+    "game_name": "Fire Joker Freeze",
+    "game_uid": "e2cab56a5fa0afc7dc5f82830f0c7095",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG186 Fire Joker Freeze.png"
+  },
+  {
+    "id": 182,
+    "game_name": "Fire Joker",
+    "game_uid": "edddfb67bf1851bd07afc3565b54d9e1",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG187 Fire Joker.png"
+  },
+  {
+    "id": 183,
+    "game_name": "Feline Fury",
+    "game_uid": "1b1d54cd260990058a880734bd621d83",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG188 Feline Fury.png"
+  },
+  {
+    "id": 184,
+    "game_name": "Eye of the Kraken",
+    "game_uid": "cd94cd4152636279d25aaf717bcdd6f8",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG189 Eye of the Kraken.png"
+  },
+  {
+    "id": 185,
+    "game_name": "Energoonz",
+    "game_uid": "9c2c11f94b6936d639db2aefc0281385",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG190 Energoonz.png"
+  },
+  {
+    "id": 186,
+    "game_name": "Enchanted Meadow",
+    "game_uid": "4d7835de678319b0edff27049d56f163",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG191 Enchanted Meadow.png"
+  },
+  {
+    "id": 187,
+    "game_name": "Enchanted Crystals",
+    "game_uid": "360acf911266d57af9a6c2919b3e044f",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG192 Enchanted Crystals.png"
+  },
+  {
+    "id": 188,
+    "game_name": "Easter Eggs",
+    "game_uid": "dfaeab29f9484e7fbbe9ba821575eadc",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG193 Easter Eggs.png"
+  },
+  {
+    "id": 189,
+    "game_name": "Dragon Ship",
+    "game_uid": "154e0d834d50904e6e7d9228c46c9420",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG194 Dragon Ship.png"
+  },
+  {
+    "id": 190,
+    "game_name": "Dragon Maiden",
+    "game_uid": "09f602875f7aadcb3f83af72a49511a3",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG195 Dragon Maiden.png"
+  },
+  {
+    "id": 191,
+    "game_name": "Dr. Toonz",
+    "game_uid": "2f1f680aa9bcb0aefdac587b997a0689",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG196 Dr Toonz.png"
+  },
+  {
+    "id": 192,
+    "game_name": "Doom of Egypt",
+    "game_uid": "4a267dcdf6321f5494303e11adccf569",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG197 Doom of Egypt.png"
+  },
+  {
+    "id": 193,
+    "game_name": "Divine Showdown",
+    "game_uid": "9ac1a1aa4f90d00e0e5e8bfeeff499cf",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG198 Divine Showdown.png"
+  },
+  {
+    "id": 194,
+    "game_name": "Disco Diamonds",
+    "game_uid": "47d142aaa24ee3430eb60420966b5a05",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG199 Disco Diamonds.png"
+  },
+  {
+    "id": 195,
+    "game_name": "Diamond Vortex",
+    "game_uid": "b8c8a722b10c182e1f8dcf0b841b7e26",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG 375 Diamond Vortex.png"
+  },
+  {
+    "id": 196,
+    "game_name": "Diamonds of the Realm",
+    "game_uid": "15a4065be06d7bbd755030fdc04993b9",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG201 Diamonds of the Realm.png"
+  },
+  {
+    "id": 197,
+    "game_name": "Demon",
+    "game_uid": "a7e9bfd44dafdd3b42b8a8448bee3063",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG202 Demon.png"
+  },
+  {
+    "id": 198,
+    "game_name": "Dawn of Egypt",
+    "game_uid": "0be161032f526804420ee5142c30baa5",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG203 Dawn of Egypt.png"
+  },
+  {
+    "id": 199,
+    "game_name": "Crystal Sun",
+    "game_uid": "43cb075041d662ed4cf279fc682fd5f6",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG204 Crystal Sun.png"
+  },
+  {
+    "id": 200,
+    "game_name": "Crazy Cows",
+    "game_uid": "364b8638882e141c0daedc199cba0fda",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG205 Crazy Cows.png"
+  },
+  {
+    "id": 201,
+    "game_name": "Coywolf Cash",
+    "game_uid": "d00cf8d584ad0bed76e2696d885a8f8f",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG206 Coywolf Cash.png"
+  },
+  {
+    "id": 202,
+    "game_name": "Cops'n'Robbers",
+    "game_uid": "444e3edf5f2452114bcd6ffb2755f4b2",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG207 Cops_n_Robbers.png"
+  },
+  {
+    "id": 203,
+    "game_name": "Contact",
+    "game_uid": "ddd6bd02fc4b405f660a18ba368fc0c7",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG208 Contact.png"
+  },
+  {
+    "id": 204,
+    "game_name": "Coils of Cash",
+    "game_uid": "ec50c964427c293245a1044b02ab4e95",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG209 Coils of Cash.png"
+  },
+  {
+    "id": 205,
+    "game_name": "Cloud Quest",
+    "game_uid": "654891067f9ac6be23ead8502ebe1b9d",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG210 Cloud Quest.png"
+  },
+  {
+    "id": 206,
+    "game_name": "Chronos Joker",
+    "game_uid": "e08a9bee15f2f3406ac06fccb0df53e1",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG211 Chronos Joker.png"
+  },
+  {
+    "id": 207,
+    "game_name": "Chinese New Year",
+    "game_uid": "2f46ada3708186d9efa22f17985d9241",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG212 Chinese New Year.png"
+  },
+  {
+    "id": 208,
+    "game_name": "Charlie Chance in Hell to Pay",
+    "game_uid": "7a52224201c6dac3fe9a36cd4fe4ae26",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG213 Charlie Chance in Hell to Pay.png"
+  },
+  {
+    "id": 209,
+    "game_name": "Charlie Chance",
+    "game_uid": "8c9d0ee21ce3c8a5c9a9d673be730a51",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG214 Charlie Chance.png"
+  },
+  {
+    "id": 210,
+    "game_name": "Cats and Cash",
+    "game_uid": "302c0d4db87fdb264c24b6219b7d4dde",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG215 Cats and Cash.png"
+  },
+  {
+    "id": 211,
+    "game_name": "Cat Wilde in the Eclipse of the Sun God",
+    "game_uid": "c9906af57657bd4fa06fdf69bbcd5b2e",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG216 Cat Wilde in the Eclipse of the Sun God.png"
+  },
+  {
+    "id": 212,
+    "game_name": "Cat Wilde and the Doom of Dead",
+    "game_uid": "5253232aacf888526d12ab18f274ea0c",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG217 Cat Wilde and the Doom of Dead.png"
+  },
+  {
+    "id": 213,
+    "game_name": "Cash Vandal",
+    "game_uid": "2ed0497fdc5d9b0f974b62d3a1c8717c",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG218 Cash Vandal.png"
+  },
+  {
+    "id": 214,
+    "game_name": "Cash Pump",
+    "game_uid": "bfa52db8c960aaf412d5138c35e8150d",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG219 Cash Pump.png"
+  },
+  {
+    "id": 215,
+    "game_name": "Candy Island Princess",
+    "game_uid": "a682f5b5bee6c0f9f511411b350cdf0e",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG220 Candy Island Princess.png"
+  },
+  {
+    "id": 216,
+    "game_name": "Bull in a China Shop",
+    "game_uid": "3c60ac0bff138a4cd462b4c4e9ffdc1e",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG221 Bull in a China Shop.png"
+  },
+  {
+    "id": 217,
+    "game_name": "Book of Dead",
+    "game_uid": "a5bc18b392f561bf518dfc828824d747",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG222 Book of Dead.png"
+  },
+  {
+    "id": 218,
+    "game_name": "Blinged",
+    "game_uid": "1b5ab156fc317b30b9f6d16d9404a3de",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG223 Blinged.png"
+  },
+  {
+    "id": 219,
+    "game_name": "Blazin' Bullfrog",
+    "game_uid": "e479817a481d403dc27e213f375fa1a0",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG224 Blazin_ Bullfrog.png"
+  },
+  {
+    "id": 220,
+    "game_name": "Black Mamba",
+    "game_uid": "1a98b587fa1988e136f44aa83acb8cc9",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG225 Black Mamba.png"
+  },
+  {
+    "id": 221,
+    "game_name": "Big Win Cat",
+    "game_uid": "26ce9b0eb2577bfbc62e41e7ab26c62e",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG226 Big Win Cat.png"
+  },
+  {
+    "id": 222,
+    "game_name": "Big Win 777",
+    "game_uid": "221cada72ffa3f994c139f48c7924cf7",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG227 Big Win 777.png"
+  },
+  {
+    "id": 223,
+    "game_name": "Battle Royal",
+    "game_uid": "64f4fe2d01110692982adf57501bc035",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG228 Battle Royal.png"
+  },
+  {
+    "id": 224,
+    "game_name": "Banana Rock",
+    "game_uid": "92d94adbe6b8f4931d68fdc057359d3a",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG229 Banana Rock.png"
+  },
+  {
+    "id": 225,
+    "game_name": "Baker's Treat",
+    "game_uid": "dbdee08845697e210245b4f68cb33f4a",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG230 Baker_s Treat.png"
+  },
+  {
+    "id": 226,
+    "game_name": "Aztec Warrior Princess",
+    "game_uid": "e84be062de8fdb682e3c283a78519387",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG231 Aztec Warrior Princess.png"
+  },
+  {
+    "id": 227,
+    "game_name": "Aztec Idols",
+    "game_uid": "2fc48840792d976b0dd76d5f86aa0099",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG232 Aztec Idols.png"
+  },
+  {
+    "id": 228,
+    "game_name": "Annihilator",
+    "game_uid": "ec726e51853dc9226257351d04068a1f",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG233 Annihilator.png"
+  },
+  {
+    "id": 229,
+    "game_name": "Ankh of Anubis",
+    "game_uid": "19d4680a835a22f82269eb0895ed6b01",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG234 Ankh of Anubis.png"
+  },
+  {
+    "id": 230,
+    "game_name": "Agent of Hearts",
+    "game_uid": "804aabe9788f412413ec4c932918f669",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG235 Agent of Hearts.png"
+  },
+  {
+    "id": 231,
+    "game_name": "Agent Destiny",
+    "game_uid": "184171a69c424755d166271db1e961f0",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG236 Agent Destiny.png"
+  },
+  {
+    "id": 232,
+    "game_name": "Ace of Spades",
+    "game_uid": "1bc533aa4c54abf9bf89ba162d170939",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG237 Ace of Spades.png"
+  },
+  {
+    "id": 233,
+    "game_name": "7 Sins",
+    "game_uid": "7e7d41f8eb68fe15c255b091963ff1ac",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG238 7 Sins.png"
+  },
+  {
+    "id": 234,
+    "game_name": "24k Dragon",
+    "game_uid": "717697c403ff08c88ce664168079c219",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG239 24k Dragon.png"
+  },
+  {
+    "id": 235,
+    "game_name": "5x Magic",
+    "game_uid": "e0ad910b8979126ba55debeb31660799",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG240 5x Magic.png"
+  },
+  {
+    "id": 236,
+    "game_name": "3 Clown Monty",
+    "game_uid": "f041ad7dc7f9e5774eda02b05fbe0592",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG241 3 Clown Monty.png"
+  },
+  {
+    "id": 237,
+    "game_name": "Muerto en Mictlán",
+    "game_uid": "81519fbf427c90077793eb7a340cd631",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG 244 Muerto en Mictlán.png"
+  },
+  {
+    "id": 238,
+    "game_name": "Game of Gladiators: Uprising",
+    "game_uid": "2e4f4c1524bded0d06534f0f8636a0e1",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG178 Game of Gladiators.png"
+  },
+  {
+    "id": 239,
+    "game_name": "Moon Princess Trinity",
+    "game_uid": "2860220f27c3234553490cd9119966b3",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG131 Moon Princess.png"
+  },
+  {
+    "id": 240,
+    "game_name": "Free Reelin' Joker 1000",
+    "game_uid": "588ced8c497e1f296d988fb8ed8cca51",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG181 Free Reelin_ Joker.png"
+  },
+  {
+    "id": 241,
+    "game_name": "Viking Runecraft Apocalypse",
+    "game_uid": "20efc291fb8723e54568f182f2b5d1a0",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG66 Viking Runecraft.png"
+  },
+  {
+    "id": 242,
+    "game_name": "Raging Rex 3",
+    "game_uid": "e8d139fbab06ade56cbd8f23b8b9cb13",
+    "game_type": "Bingo",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG108 Raging Rex.png"
+  },
+  {
+    "id": 243,
+    "game_name": "Mega Don Feeding Frenzy",
+    "game_uid": "bc9f7ca363bec91ee3df27e3805ca96c",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG43 Mega Don.png"
+  },
+  {
+    "id": 244,
+    "game_name": "Moon Princess Power of Love",
+    "game_uid": "e4f9caa23c3e5a132ffc616747c7d1d8",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG131 Moon Princess.png"
+  },
+  {
+    "id": 245,
+    "game_name": "The Sword and the Grail Excalibur",
+    "game_uid": "2c27d8c4159f978aaed4a81987b4cbbf",
+    "game_type": "Bingo",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG73 The Sword and The Grail.png"
+  },
+  {
+    "id": 246,
+    "game_name": "King's Mask Eclipse of Gods",
+    "game_uid": "21f30b6373e11d0ff78698b7b2701a9a",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG41 King_s Mask.png"
+  },
+  {
+    "id": 247,
+    "game_name": "Ankh of Anubis Awakening",
+    "game_uid": "bb2f9f6e52236adc73d5f1fcd78689fc",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG234 Ankh of Anubis.png"
+  },
+  {
+    "id": 248,
+    "game_name": "Gemix 100",
+    "game_uid": "82f24b233f83c7789ac9001716531b9e",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG177 Gemix.png"
+  },
+  {
+    "id": 249,
+    "game_name": "Lady of Fortune Remastered",
+    "game_uid": "e9e77f3b9c2c69a2a3f35e0384f661ef",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG146 Lady of Fortune.png"
+  },
+  {
+    "id": 250,
+    "game_name": "Beasts of Fire Maximum",
+    "game_uid": "1991cd73aa389312dc4e9cbb47119018",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG7 Beasts of Fire.png"
+  },
+  {
+    "id": 251,
+    "game_name": "Jolly Roger Wild Kraken",
+    "game_uid": "baefcc39e6dcd003c961a823443cacce",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG148 Jolly Roger.png"
+  },
+  {
+    "id": 252,
+    "game_name": "Myth of Dead",
+    "game_uid": "4d70c498d5b7424e7c19dcd45d3e187a",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG127 Myth.png"
+  },
+  {
+    "id": 253,
+    "game_name": "Moon Princess Origins",
+    "game_uid": "b71fe6f16c852c378b4db7bb0dc9f5eb",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG131 Moon Princess.png"
+  },
+  {
+    "id": 254,
+    "game_name": "Fire Joker 100",
+    "game_uid": "bf9a5897b220c5c6c2b706ef48962d90",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG187 Fire Joker.png"
+  },
+  {
+    "id": 255,
+    "game_name": "Big Win Cat Pawsperity",
+    "game_uid": "c5a327fd1e5f13f9ae461b2742926815",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG226 Big Win Cat.png"
+  },
+  {
+    "id": 256,
+    "game_name": "Moon Princess Stargazing",
+    "game_uid": "4c6c8212c69cc80eb5a02944ed8419ae",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG131 Moon Princess.png"
+  },
+  {
+    "id": 257,
+    "game_name": "The Green Knight Oath of Thorns",
+    "game_uid": "1c2d8a46109c0acb9020a9d237a22731",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG75 The Green Knight.png"
+  },
+  {
+    "id": 258,
+    "game_name": "Fire Joker Blitz",
+    "game_uid": "d96b66c156085fa23decbffa3030a0a3",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG187 Fire Joker.png"
+  },
+  {
+    "id": 259,
+    "game_name": "Lady of Fortune Destiny Spins",
+    "game_uid": "ed729cb091c5c3cc2ab37abf587a8be8",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG146 Lady of Fortune.png"
+  },
+  {
+    "id": 260,
+    "game_name": "Fire Toad 2",
+    "game_uid": "9ad94408344766d3b5c33d662c32c713",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG185 Fire Toad.png"
+  },
+  {
+    "id": 261,
+    "game_name": "Tome of Madness Bingo",
+    "game_uid": "f6c6435d5cc455bdcfaf3f10f17ea3be",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG70 Tome of Madness.png"
+  },
+  {
+    "id": 262,
+    "game_name": "Rise of Olympus 1000",
+    "game_uid": "9cee80d86bc4766f0318ad5516e9ed9b",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG95 Rise of Olympus.png"
+  },
+  {
+    "id": 263,
+    "game_name": "Wild North Radiant Skies GO Collect",
+    "game_uid": "722a7a4c9446d06d7defcf5aedd60736",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG60 Wild North.png"
+  },
+  {
+    "id": 264,
+    "game_name": "Book of Dead GO Collect",
+    "game_uid": "3f5126458b708352e95ac03dde403d12",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG222 Book of Dead.png"
+  },
+  {
+    "id": 265,
+    "game_name": "Mega Don Triple Threat",
+    "game_uid": "0ffd176092d244f773f2574ced8999c4",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG43 Mega Don.png"
+  },
+  {
+    "id": 266,
+    "game_name": "Boat Bonanza Christmas",
+    "game_uid": "8b792379097190042926077481592478",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG 374 Boat Bonanza Christmas.png"
+  },
+  {
+    "id": 267,
+    "game_name": "Diamond Vortex",
+    "game_uid": "16503955898027794994865292779334",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG 375 Diamond Vortex.png"
+  },
+  {
+    "id": 268,
+    "game_name": "Easter Eggspedition",
+    "game_uid": "91231259561007944218277961471268",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG193 Easter Eggs.png"
+  },
+  {
+    "id": 269,
+    "game_name": "Honey Rush",
+    "game_uid": "51022189752954981426259762057415",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG 378 Honey Rush.png"
+  },
+  {
+    "id": 270,
+    "game_name": "Honey Rush 100",
+    "game_uid": "34688290299547999211135176638264",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG 378 Honey Rush.png"
+  },
+  {
+    "id": 271,
+    "game_name": "Honey Rush Black and Yellow",
+    "game_uid": "79310699207509292628815751923209",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG 378 Honey Rush.png"
+  },
+  {
+    "id": 272,
+    "game_name": "Odin Protector of Realms",
+    "game_uid": "59079429171782428491172675963295",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG 384 Odin Protector of Realms.png"
+  },
+  {
+    "id": 273,
+    "game_name": "Viking Runecraft Bingo",
+    "game_uid": "45627910418734182774927947815631",
+    "game_type": "Slot",
+    "provider": "playngo",
+    "icon": "https://files.bulkapi.site/Playngo/code_PG 386 Viking Runecraft Bingo.png"
+  }
+]

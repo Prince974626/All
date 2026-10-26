@@ -1,0 +1,1818 @@
+[
+  {
+    "id": 1,
+    "game_name": "Archangels Salvation",
+    "game_uid": "6564c1b9213cf2ae7f03e084f2226325",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 133_ Archangels Salvation.png"
+  },
+  {
+    "id": 2,
+    "game_name": "Jumanji",
+    "game_uid": "1fa5b9294b69e68edefb68ca3e72be36",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 54_ Jumanji.png"
+  },
+  {
+    "id": 3,
+    "game_name": "Neon Staxx",
+    "game_uid": "b07d5e04a6dc827cc425630369fb9868",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 05_ Neon Staxx.png"
+  },
+  {
+    "id": 4,
+    "game_name": "Flowers Christmas Edition",
+    "game_uid": "abcf225cf78897bdfd43d63c5867ba6b",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 134_ Flowers Christmas Edition.png"
+  },
+  {
+    "id": 5,
+    "game_name": "Rage of the Seas",
+    "game_uid": "9d80d09f34f6cfc8e0a1f448d429e86e",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 40_ Rage of the Seas.png"
+  },
+  {
+    "id": 6,
+    "game_name": "Joker Pro",
+    "game_uid": "b710345eb895fb36697cf9a67504745b",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 06_ Joker Pro.png"
+  },
+  {
+    "id": 7,
+    "game_name": "Street Fighter II: The World Warrior Slot",
+    "game_uid": "3ebcfebaec338859a586f6b7e3766e49",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 241_ Street Fighter II The World Warrior Slot.jpg"
+  },
+  {
+    "id": 8,
+    "game_name": "Coins of Egypt",
+    "game_uid": "57612739f5912d41a1df66041163f404",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 135_ Coins of Egypt.png"
+  },
+  {
+    "id": 9,
+    "game_name": "Grand Spinn",
+    "game_uid": "6053cb82a8d496cdb719b7ec12c5aff4",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 68_ Grand Spinn.png"
+  },
+  {
+    "id": 10,
+    "game_name": "Victorious",
+    "game_uid": "6bcd4301cae5ceb966f609d2e5646c2c",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 20_ Victorious.png"
+  },
+  {
+    "id": 11,
+    "game_name": "The Invisible Man",
+    "game_uid": "0957905f7083de19e720977924c1fbd0",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 23_ The Invisible Man.png"
+  },
+  {
+    "id": 12,
+    "game_name": "Thrill to Grill",
+    "game_uid": "a16df95115203973dd9e4cd15289851d",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 136_ Thrill to Grill.jpg"
+  },
+  {
+    "id": 13,
+    "game_name": "Koi Princess",
+    "game_uid": "92a7f4135ab12b0f20c49d0a43835ae2",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 52_ Koi Princess.png"
+  },
+  {
+    "id": 14,
+    "game_name": "Blood Suckers II",
+    "game_uid": "915def528fb0e5f716ea0fdabcaad3f8",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 102_ Blood Suckers II.png"
+  },
+  {
+    "id": 15,
+    "game_name": "Spinsane",
+    "game_uid": "d9ad2db12e43fb6a6fdbff2703321ecb",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 122_ Spinsane.png"
+  },
+  {
+    "id": 16,
+    "game_name": "Ozzy Osbourne Video Slots",
+    "game_uid": "67eecde5bbc41ca5ce64accca110af69",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 44_ Ozzy Osbourne video Slots.png"
+  },
+  {
+    "id": 17,
+    "game_name": "Swipe and Roll",
+    "game_uid": "a053d3b6b813895f9c193b6b139cde66",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 137_ Swipe and Roll.png"
+  },
+  {
+    "id": 18,
+    "game_name": "Cash-o-Matic",
+    "game_uid": "eab2b729978d4c9c9c4ad336601b3b77",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 97_ Cash-o-Matic.png"
+  },
+  {
+    "id": 19,
+    "game_name": "Big Bang Boom",
+    "game_uid": "d558e3d2d4a72ca72e539a10f5a6801a",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 138_ Big Bang Boom.png"
+  },
+  {
+    "id": 20,
+    "game_name": "Pyramid: Quest for Immortality",
+    "game_uid": "ee6de4b7fb667890017c0199dbca2428",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 41_ Pyramid Quest for Immortality.png"
+  },
+  {
+    "id": 21,
+    "game_name": "Jimi Hendrix Online Slot",
+    "game_uid": "9041d863cc800a0a60248f08a4dfb189",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 56_ Jimi Hendrix Online Slot.png"
+  },
+  {
+    "id": 22,
+    "game_name": "Cornelius",
+    "game_uid": "fe3b048a6b4330032b1d9339c07c62fb",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 128_ Cornelius.png"
+  },
+  {
+    "id": 23,
+    "game_name": "Rise of Maya",
+    "game_uid": "351b6580b701161b3c9b8c33957245e9",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 36_ Rise of Maya.png"
+  },
+  {
+    "id": 24,
+    "game_name": "Fruit Blaze",
+    "game_uid": "3becb515ffbcf9bd4808137631a5ed44",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 139_ Fruit Blaze.jpg"
+  },
+  {
+    "id": 25,
+    "game_name": "King of Slots",
+    "game_uid": "63adae3b2af3c686cee63ad0cd08312a",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 53_ King of Slots.png"
+  },
+  {
+    "id": 26,
+    "game_name": "Ocean's Treasure",
+    "game_uid": "e48e6fde59d90b3446b7617b7b6a1aa6",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 45_ Ocean_s Treasure.png"
+  },
+  {
+    "id": 27,
+    "game_name": "Jack Hammer™ 3: Diamond Affair",
+    "game_uid": "45e78e21729e573669d32a6a07857cba",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 140_ Jack Hammer 3 Diamond Affair.png"
+  },
+  {
+    "id": 28,
+    "game_name": "Finn and the Swirly Spin",
+    "game_uid": "899cb09c78d11c63ef8a0fe66f417059",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 76_ Finn and the Swirly Spin.png"
+  },
+  {
+    "id": 29,
+    "game_name": "Royal Nuts",
+    "game_uid": "5b8e5d3e697ec2c9a1c6ccebf04ac69e",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 141_ Royal Nuts.png"
+  },
+  {
+    "id": 30,
+    "game_name": "Reel Steal",
+    "game_uid": "da2cad72c087124b0396633a1796a706",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 114_ Reel Steal.png"
+  },
+  {
+    "id": 31,
+    "game_name": "Witchcraft Academy",
+    "game_uid": "a21bf9b81d7a1085109a0aaacdb2d25b",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 142_ Witchcraft Academy.png"
+  },
+  {
+    "id": 32,
+    "game_name": "Secrets of Atlantis",
+    "game_uid": "c2e3c41eb434bcee2aa47cf842fed508",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 04_ Secrets of Atlantis.png"
+  },
+  {
+    "id": 33,
+    "game_name": "Wild Worlds",
+    "game_uid": "9a4db9eab68971ac4b03aef0eaee4518",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 15_ Wild Worlds.png"
+  },
+  {
+    "id": 34,
+    "game_name": "Reel Rush 2",
+    "game_uid": "7b3202fbe609f97580d52898110d044f",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 123_ Reel Rush 2.png"
+  },
+  {
+    "id": 35,
+    "game_name": "Cupcakes",
+    "game_uid": "3ae8ed3a7efea5461452d2b7dda6b936",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 143_ Cupcakes.jpg"
+  },
+  {
+    "id": 36,
+    "game_name": "Disco Danny",
+    "game_uid": "634bf5623da671486f17c5fd1c072ae1",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 86_ Disco Danny.png"
+  },
+  {
+    "id": 37,
+    "game_name": "Druids' Dream",
+    "game_uid": "919089ba595fbadd07b602e7d9791799",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 84_ Druids_ Dream.png"
+  },
+  {
+    "id": 38,
+    "game_name": "Long Pao",
+    "game_uid": "ea832bdbabf0a4653fdaecf4838aef30",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 144_ Long Pao.png"
+  },
+  {
+    "id": 39,
+    "game_name": "Halloween Jack",
+    "game_uid": "9ae6c0a3c35175405de4f8bbfddc8584",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 64_ Halloween Jack.png"
+  },
+  {
+    "id": 40,
+    "game_name": "Jungle Spirit: Call of the Wild",
+    "game_uid": "a266fc8639c88c1694edfc59e5ae638a",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 55_ Jungle Spirit Call of the Wild.png"
+  },
+  {
+    "id": 41,
+    "game_name": "Gorilla Kingdom",
+    "game_uid": "b6f3e8c932f577b2528011bf64f52d51",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 66_ Gorilla Kingdom.png"
+  },
+  {
+    "id": 42,
+    "game_name": "Asgardian Stones",
+    "game_uid": "bc6127c9afd149fa02ce3e3dd1610053",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 105_ Asgardian Stones.png"
+  },
+  {
+    "id": 43,
+    "game_name": "Divine Fortune Megaways",
+    "game_uid": "fd0b936bec62daae4a00263ffcecb606",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 87_ Divine Fortune Megaways.png"
+  },
+  {
+    "id": 44,
+    "game_name": "Dazzle Me Megaways",
+    "game_uid": "2f54bbefd29e1baa9d6aec5f752f1d73",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 88_ Dazzle Me Megaways.jpg"
+  },
+  {
+    "id": 45,
+    "game_name": "Scruffy Duck",
+    "game_uid": "d5e53e161765108004de048ff070e234",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 34_ Scruffy Duck.png"
+  },
+  {
+    "id": 46,
+    "game_name": "Hotline",
+    "game_uid": "a33d5005a71412612ab04e7e98a00454",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 62_ Hotline 2.png"
+  },
+  {
+    "id": 47,
+    "game_name": "Elements: The Awakening",
+    "game_uid": "e0383e0ee83c558d3cec45f8d9544981",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 82_ Elements The Awakening.png"
+  },
+  {
+    "id": 48,
+    "game_name": "Finn's Golden Tavern",
+    "game_uid": "8f931a0c46969c491902522d92eaa1d2",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 77_ Finn_s Golden Tavern.png"
+  },
+  {
+    "id": 49,
+    "game_name": "Magic Maid Cafe",
+    "game_uid": "ffc4457eef1fa3f8f4bff2dc5b9b35fd",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 49_ Magic Maid Cafe.png"
+  },
+  {
+    "id": 50,
+    "game_name": "Dark King: Forbidden Riches",
+    "game_uid": "315b7cc6c99409cc220f6e03be12c000",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 92_ Dark King Forbidden Riches.png"
+  },
+  {
+    "id": 51,
+    "game_name": "Serengeti Kings",
+    "game_uid": "eae3b78f6206ce77ec639dd41e062268",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 02_ Serengeti Kings.png"
+  },
+  {
+    "id": 52,
+    "game_name": "Starburst XXXtreme",
+    "game_uid": "cde888c86b33b363d6c7be0b3faa3c17",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 27_ Starburst XXXtreme.png"
+  },
+  {
+    "id": 53,
+    "game_name": "Turn Your Fortune",
+    "game_uid": "d2e168004abfcd4c78effa30211e585e",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 22_ Turn Your Fortune.png"
+  },
+  {
+    "id": 54,
+    "game_name": "Robin Hood: Shifting Riches",
+    "game_uid": "aaa5a2e94591bf69164af4513d06e94d",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 145_ Robin Hood Shifting Riches.png"
+  },
+  {
+    "id": 55,
+    "game_name": "Milkshake XXXtreme",
+    "game_uid": "ac4c0b31455d43c797b3c37b05404fea",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 146_ Milkshake XXXtreme.jpg"
+  },
+  {
+    "id": 56,
+    "game_name": "Hook's Heroes",
+    "game_uid": "6c2ac5f318f9a99d1bc114460dca2ea9",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 147_ Hook_s Heroes.png"
+  },
+  {
+    "id": 57,
+    "game_name": "Wings of Riches",
+    "game_uid": "f268767f35ffc2bc116259e6fccffa25",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 109_ Wings of Riches.png"
+  },
+  {
+    "id": 58,
+    "game_name": "Bee Hive Bonanza",
+    "game_uid": "decbaaef8ba6be361439d1a1c5801811",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 127_ Bee Hive Bonanza.png"
+  },
+  {
+    "id": 59,
+    "game_name": "Fruit Shop Megaways",
+    "game_uid": "4b218523456af7aa1a7515ce7df7cc71",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 10_ Fruit Shop Megaways.png"
+  },
+  {
+    "id": 60,
+    "game_name": "EggOMatic",
+    "game_uid": "fec381686003111c9437cf5b13ab3059",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 83_ EggOMatic.png"
+  },
+  {
+    "id": 61,
+    "game_name": "Elk Hunter",
+    "game_uid": "055becbfb5928ac952a92f999d091470",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 148_ Elk Hunter.png"
+  },
+  {
+    "id": 62,
+    "game_name": "Super Striker",
+    "game_uid": "8c7f2f73251aa96164a3ca97e073bd8c",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 117_ Super Striker.png"
+  },
+  {
+    "id": 63,
+    "game_name": "Scudamore's Super Stakes",
+    "game_uid": "b2835b409034555d2087d5cd62bdf470",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 32_ Scudamore_s Super Stakes.png"
+  },
+  {
+    "id": 64,
+    "game_name": "Creature from the Black Lagoon",
+    "game_uid": "2a55beae36b33be05deae551d3c307f3",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 94_ Creature from the Black Lagoon.png"
+  },
+  {
+    "id": 65,
+    "game_name": "Twin Spin",
+    "game_uid": "b608cf04941c593f795b3bd9877fb945",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 01_ Twin Spin.png"
+  },
+  {
+    "id": 66,
+    "game_name": "Arcane: Reel Chaos",
+    "game_uid": "ab4d3fece15eeabf18efcc67224620e1",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 149_ Arcane Reel Chaos.png"
+  },
+  {
+    "id": 67,
+    "game_name": "Twister",
+    "game_uid": "6c21df3312110d3edacaf209716020fc",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 150_ Twister.png"
+  },
+  {
+    "id": 68,
+    "game_name": "Warlords: Crystals of Power",
+    "game_uid": "fd4c6e6f78c69818eb098ea7d3f42541",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 18_ Warlords Crystals of Power.png"
+  },
+  {
+    "id": 69,
+    "game_name": "East Sea Dragon King",
+    "game_uid": "a2c9b188d5cb6d33e6a3ab2847a4a785",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 151_ East Sea Dragon King.png"
+  },
+  {
+    "id": 70,
+    "game_name": "Moonshine Riches",
+    "game_uid": "2b9b2b7ab6c2dd34baa9f76ece5564fa",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 152_ Moonshine Riches.png"
+  },
+  {
+    "id": 71,
+    "game_name": "Fairytale Legends: Mirror Mirror",
+    "game_uid": "87ef3227712b622d4cb7ec0ab293ad79",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 78_ Fairytale Legends Mirror Mirror.png"
+  },
+  {
+    "id": 72,
+    "game_name": "Sweety Honey Fruity",
+    "game_uid": "0dad57625f1f55f6f7e9732499c079bf",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 115_ Sweety Honey Fruity.png"
+  },
+  {
+    "id": 73,
+    "game_name": "Berryburst",
+    "game_uid": "79ae04624c8db7e45ac85e01998dabee",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 153_ Berryburst.png"
+  },
+  {
+    "id": 74,
+    "game_name": "Mythic Maiden",
+    "game_uid": "ec74e90b1ea0d0097862d2f261c32328",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 47_ Mythic Maiden.png"
+  },
+  {
+    "id": 75,
+    "game_name": "Fruit Case",
+    "game_uid": "42445d5c7828b6828b55c4a0e2abc7bd",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 154_ Fruit Case.png"
+  },
+  {
+    "id": 76,
+    "game_name": "NetEnt Roulette Advanced",
+    "game_uid": "d1ede1a2370ab8d1b963f7701678b0fc",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 155_ NetEnt Roulette Advanced.jpg"
+  },
+  {
+    "id": 77,
+    "game_name": "Codex of Fortune",
+    "game_uid": "cd858e405ba1f796c92cb259987328dd",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 95_ Codex of Fortune.png"
+  },
+  {
+    "id": 78,
+    "game_name": "Gods Of Gold: InfiniReels",
+    "game_uid": "2bb843b39d9d205e8b61b1a4e7844fc5",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 70_ Gods Of Gold InfiniReels.png"
+  },
+  {
+    "id": 79,
+    "game_name": "Jack and the Beanstalk",
+    "game_uid": "1985309ec8bffc880914f52e11c7fa0b",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 58_ Jack and the Beanstalk.png"
+  },
+  {
+    "id": 80,
+    "game_name": "Jack Hammer",
+    "game_uid": "2e1ccc9ab81a1f16fb6f2365fb818f9d",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 140_ Jack Hammer 3 Diamond Affair.png"
+  },
+  {
+    "id": 81,
+    "game_name": "Willy's Hot Chillies",
+    "game_uid": "5d8e2d87114cbbddb7762982346800d2",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 14_ Willy_s Hot Chillies.png"
+  },
+  {
+    "id": 82,
+    "game_name": "Space Wars Megaways XXXTreme",
+    "game_uid": "32471a4afb7c7bb85bdcc7189f0a20cc",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 156_ Space Wars Megaways XXXTreme.png"
+  },
+  {
+    "id": 83,
+    "game_name": "Jack Hammer 2: Fishy Business",
+    "game_uid": "f1bcabd80b610ffb27306bfc7f26721c",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 60_ Jack Hammer 2 Fishy Business.png"
+  },
+  {
+    "id": 84,
+    "game_name": "Rome: The Golden Age",
+    "game_uid": "a2bf0e886d5c00507cbc67499e43f482",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 240_ Rome The Golden Age.jpg"
+  },
+  {
+    "id": 85,
+    "game_name": "Football: Champions Cup",
+    "game_uid": "efea8f3e20f01609285f480e14681802",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 75_ Football Champions Cup.png"
+  },
+  {
+    "id": 86,
+    "game_name": "Starburst",
+    "game_uid": "d7c05dc3f79967f49e5c6830031b953f",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 211_ Starburst Galaxy.png"
+  },
+  {
+    "id": 87,
+    "game_name": "Twin Spin DeLuxe",
+    "game_uid": "d122014412e74dd3ccd3f655860f661b",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 157_ Twin Spin DeLuxe.png"
+  },
+  {
+    "id": 88,
+    "game_name": "Double Stacks",
+    "game_uid": "2db746bc75a04113a06ef5f4f4182096",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 85_ Double Stacks.png"
+  },
+  {
+    "id": 89,
+    "game_name": "Theme Park: Tickets of Fortune",
+    "game_uid": "a3bacdd398ce7c449fbbdb4fa55f885d",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 158_ Theme Park Tickets of Fortune.png"
+  },
+  {
+    "id": 90,
+    "game_name": "Fire Siege Fortress",
+    "game_uid": "2ea9bbdc2978e533774c0351870deb40",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 159_ Fire Siege Fortress.png"
+  },
+  {
+    "id": 91,
+    "game_name": "Jingle Spin",
+    "game_uid": "c7fd30bb00e841d5b334df96587cbc39",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 07_ Jingle Spin.png"
+  },
+  {
+    "id": 92,
+    "game_name": "Let It Burn",
+    "game_uid": "f829e700f3e2a61bf685f9f12c26c495",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 132_ Let It Burn.jpg"
+  },
+  {
+    "id": 93,
+    "game_name": "Aloha! Christmas",
+    "game_uid": "785657cfc3098b634d356d320be15e89",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 107_ Aloha Christmas.png"
+  },
+  {
+    "id": 94,
+    "game_name": "Space Wars",
+    "game_uid": "e6d083380962fba8e6e4aefd9bc823d1",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 126_ Space Wars 2.jpg"
+  },
+  {
+    "id": 95,
+    "game_name": "Lucky Angler: A Snowy Catch",
+    "game_uid": "54a9408207336b27431cc18ba35b559b",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 160_ Lucky Angler A Snowy Catch.png"
+  },
+  {
+    "id": 96,
+    "game_name": "Jungle Spirit Megaways™",
+    "game_uid": "a47b5cd6159cf029a009b78c7bca2a48",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 180_ Jungle Spirit Megaways.png"
+  },
+  {
+    "id": 97,
+    "game_name": "Golden Grimoire",
+    "game_uid": "0dcb5b9c7cff0ff394709bbbd51abcdc",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 124_ Golden Grimoire.png"
+  },
+  {
+    "id": 98,
+    "game_name": "Bollywood Story",
+    "game_uid": "3b67988fe4dd6ace864fc69964766ed7",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 181_ Bollywood Story.png"
+  },
+  {
+    "id": 99,
+    "game_name": "Copy Cats",
+    "game_uid": "5c7ecf3d986991e1071f80516c492894",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 161_ Copy Cats.png"
+  },
+  {
+    "id": 100,
+    "game_name": "Twin Happiness",
+    "game_uid": "99f5630614043a977585529bb1f8c36d",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 162_ Twin Happiness.png"
+  },
+  {
+    "id": 101,
+    "game_name": "Golden Realms",
+    "game_uid": "3114dabd0b068b807f9cbca9d6b46ff6",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 163_ Golden Realms.png"
+  },
+  {
+    "id": 102,
+    "game_name": "Vikings Video Slot",
+    "game_uid": "517c150fbf15534dae8aace46dbdc895",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 19_ Vikings Video Slot.png"
+  },
+  {
+    "id": 103,
+    "game_name": "Steam Tower",
+    "game_uid": "1a2833b61d101be34dcb6d785915bd4d",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 26_ Steam Tower.png"
+  },
+  {
+    "id": 104,
+    "game_name": "Flowers",
+    "game_uid": "8be22f76b79b70d19c6eeaa5750782ef",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 134_ Flowers Christmas Edition.png"
+  },
+  {
+    "id": 105,
+    "game_name": "Cursed Treasure",
+    "game_uid": "a586f86e9f8e82f36d2de777f315e905",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 164_ Cursed Treasure.png"
+  },
+  {
+    "id": 106,
+    "game_name": "Riches of Midgard: Land and Expand",
+    "game_uid": "cdac92858aefbc6276fa62a05fb4cd59",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 37_ Riches of Midgard Land and Expand.png"
+  },
+  {
+    "id": 107,
+    "game_name": "Gonzo's Quest",
+    "game_uid": "2734c1b1a138694c837d692717c5d925",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 202_ Gonzo_s Quest II Return to El Dorado.png"
+  },
+  {
+    "id": 108,
+    "game_name": "Big Money Wheel",
+    "game_uid": "109aa9fac5b41749d5d4d62487e6894c",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 165_ Big Money Wheel.png"
+  },
+  {
+    "id": 109,
+    "game_name": "Narcos",
+    "game_uid": "c8a90e3abfc3e0138fc710686d57070d",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 46_ Narcos.png"
+  },
+  {
+    "id": 110,
+    "game_name": "Irish Pot Luck",
+    "game_uid": "81f154580f1ec0256e46648b6f680277",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 08_ Irish Pot Luck.png"
+  },
+  {
+    "id": 111,
+    "game_name": "Twin Spin XXXtreme",
+    "game_uid": "e3209300562c024547dfc43307aef833",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 166_ Twin Spin XXXtreme.png"
+  },
+  {
+    "id": 112,
+    "game_name": "Aloha! Cluster Pays",
+    "game_uid": "450f0b6d15e28117b17814edac668444",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 106_ Aloha Cluster Pays.png"
+  },
+  {
+    "id": 113,
+    "game_name": "Cornelius Milk Hunter Megaways",
+    "game_uid": "81790ffe4c93314b9fc10cfea78cfaac",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 167_ Cornelius Milk Hunter Megaways.png"
+  },
+  {
+    "id": 114,
+    "game_name": "Finn and the Candy Spin",
+    "game_uid": "19dc60a5ae45117c252bceb05346a3f8",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 168_ Finn and the Candy Spin.png"
+  },
+  {
+    "id": 115,
+    "game_name": "Dead or Alive 2 Feature Buy",
+    "game_uid": "7c2532e6730f3b6ce0ccab1dd3f011b5",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 89_ Dead or Alive 2 Feature Buy.png"
+  },
+  {
+    "id": 116,
+    "game_name": "Spinata Grande",
+    "game_uid": "dadacca068ee21133c3db764bdcf6112",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 29_ Spinata Grande.png"
+  },
+  {
+    "id": 117,
+    "game_name": "Piggy Riches",
+    "game_uid": "85339a62e8d77935876f86898819811f",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 203_ Piggy Riches 3 Hog Heaven.png"
+  },
+  {
+    "id": 118,
+    "game_name": "Wild Wild West: The Great Train Heist",
+    "game_uid": "15cde59858bc617ff7a1aaecdbade12c",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 16_ Wild Wild West The Great Train Heist.png"
+  },
+  {
+    "id": 119,
+    "game_name": "Who's the Bride",
+    "game_uid": "53733ec37462d88866095436b99e012f",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 169_ Who_s the Bride.png"
+  },
+  {
+    "id": 120,
+    "game_name": "Berryburst MAX",
+    "game_uid": "d76611e82c58bce524c4b0b017a8d10f",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 170_ Berryburst MAX.png"
+  },
+  {
+    "id": 121,
+    "game_name": "Reel Rush",
+    "game_uid": "4a3fcc11982203def4103a064271e061",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 123_ Reel Rush 2.png"
+  },
+  {
+    "id": 122,
+    "game_name": "Buster's Bones",
+    "game_uid": "25bb345a5d345f40a521921084b89dd8",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 171_ Buster_s Bones.jpg"
+  },
+  {
+    "id": 123,
+    "game_name": "Buckshot Wilds",
+    "game_uid": "504d8868487206557ba94a10a72d463f",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 172_ Buckshot Wilds.png"
+  },
+  {
+    "id": 124,
+    "game_name": "Dead or Alive 2",
+    "game_uid": "8dee4630c30a1ca46d6bef5f1c6118b7",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 89_ Dead or Alive 2 Feature Buy.png"
+  },
+  {
+    "id": 125,
+    "game_name": "Rabid Randy",
+    "game_uid": "5e4057225f4417202416416458e68679",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 173_ Rabid Randy.png"
+  },
+  {
+    "id": 126,
+    "game_name": "Motorhead Video Slot",
+    "game_uid": "ef704f3a5695f6b58b9c2ff5a192e493",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 48_ Motorhead video Slot.jpg"
+  },
+  {
+    "id": 127,
+    "game_name": "Rage",
+    "game_uid": "eae25d0b7dd4306288fa9ed8903f52a4",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 174_ Rage.png"
+  },
+  {
+    "id": 128,
+    "game_name": "Ghost Pirates",
+    "game_uid": "64bf9baf81c43c647267aa693a84f0b1",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 175_ Ghost Pirates.png"
+  },
+  {
+    "id": 129,
+    "game_name": "Spellcast",
+    "game_uid": "d6f25e3235df0e672d8387ac4c1dd908",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 176_ Spellcast.png"
+  },
+  {
+    "id": 130,
+    "game_name": "King of 3 Kingdoms",
+    "game_uid": "6b46d1c96b0805e1b9ecfa86794e975a",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 177_ King of 3 Kingdoms.png"
+  },
+  {
+    "id": 131,
+    "game_name": "Fortune Rangers",
+    "game_uid": "630029058e0ea6ec059a0245e1a855e2",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 178_ Fortune Rangers.png"
+  },
+  {
+    "id": 132,
+    "game_name": "Wild-O-Tron 3000",
+    "game_uid": "861236eec8633cae4cbf847daaac7090",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 179_ Wild-O-Tron 3000.png"
+  },
+  {
+    "id": 133,
+    "game_name": "Wolf Cub",
+    "game_uid": "cac48cfe567d23a7e0719c61c73dc9a4",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 108_ Wolf Cub.png"
+  },
+  {
+    "id": 134,
+    "game_name": "Temple of Nudges",
+    "game_uid": "5b7c70816af4c7e163434c0b3a1fb136",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 129_ Temple of Nudges.png"
+  },
+  {
+    "id": 135,
+    "game_name": "Strolling Staxx: Cubic Fruits",
+    "game_uid": "9810e71e764952a83f54a078d8ead5f0",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 183_ Strolling Staxx Cubic Fruits.png"
+  },
+  {
+    "id": 136,
+    "game_name": "Lights",
+    "game_uid": "cfdd8adf21a445871fac07e07b0f9bf3",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 230_ Lights Camera Cash.png"
+  },
+  {
+    "id": 137,
+    "game_name": "Silverback Gold",
+    "game_uid": "5944fb0fc18fab2f6c62dd90f6960144",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 30_ Silverback Gold.jpg"
+  },
+  {
+    "id": 138,
+    "game_name": "Butterfly Staxx",
+    "game_uid": "85a0215e310ad8f29152b756633a926d",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 100_ Butterfly Staxx 2.png"
+  },
+  {
+    "id": 139,
+    "game_name": "Wonderland Protector",
+    "game_uid": "b16c24a9e80bb5d83bfbc0cdafe385e6",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 184_ Wonderland Protector.png"
+  },
+  {
+    "id": 140,
+    "game_name": "Trollpot 5000",
+    "game_uid": "e09a5d497c6536a8bc763943e4fcc69f",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 111_ Trollpot 5000.png"
+  },
+  {
+    "id": 141,
+    "game_name": "Wild Bazaar",
+    "game_uid": "c727f12ce53570daa0d8319381542d3c",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 113_ Wild Bazaar.png"
+  },
+  {
+    "id": 142,
+    "game_name": "Golden Wheels of Egypt",
+    "game_uid": "b2eda49a46a49ce90fcee1644b5740c2",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 185_ Golden Wheels of Egypt.png"
+  },
+  {
+    "id": 143,
+    "game_name": "Wild Turkey",
+    "game_uid": "cfd541522593192810df26650688a7e2",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 186_ Wild Turkey.png"
+  },
+  {
+    "id": 144,
+    "game_name": "Wonders of Christmas",
+    "game_uid": "791a470fd0c8cbb9f9a53010ec152c8d",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 131_ Wonders of Christmas.png"
+  },
+  {
+    "id": 145,
+    "game_name": "Reef Raider",
+    "game_uid": "31780de27d3006ef18e05696d85d8a05",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 39_ Reef Raider.png"
+  },
+  {
+    "id": 146,
+    "game_name": "Fairytale Legends: Red Riding Hood",
+    "game_uid": "647b8e45d2f07a7489d914cd2f2628db",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 79_ Fairytale Legends Red Riding Hood.png"
+  },
+  {
+    "id": 147,
+    "game_name": "Blood Suckers",
+    "game_uid": "eb205ec92ac6d6aa596dab869b143d9a",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 101_ Blood Suckers.png"
+  },
+  {
+    "id": 148,
+    "game_name": "Drive: Multiplier Mayhem",
+    "game_uid": "fffa79c95d40c994a9d8fffa191a7d7e",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 12_ Drive Multiplier Mayhem.png"
+  },
+  {
+    "id": 149,
+    "game_name": "The Wolf's Bane",
+    "game_uid": "81312ebc3418385964589e8de78add8a",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 112_ The Wolf_s Bane.png"
+  },
+  {
+    "id": 150,
+    "game_name": "Wilderland",
+    "game_uid": "917851222965a85d522b3d6726b63a87",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 110_ Wilderland.png"
+  },
+  {
+    "id": 151,
+    "game_name": "Jack and the Beanstalk Remastered",
+    "game_uid": "8891f0e12abc7ab63150e83294e21f64",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 58_ Jack and the Beanstalk.png"
+  },
+  {
+    "id": 152,
+    "game_name": "Cash Noire",
+    "game_uid": "170e665d65ae30219687fc7e5ed30876",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 98_ Cash Noire.jpg"
+  },
+  {
+    "id": 153,
+    "game_name": "Gordon Ramsay Hell's Kitchen",
+    "game_uid": "18bbf816245821eabae2c5052c1a4ee2",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 67_ Gordon Ramsay Hell_s Kitchen.png"
+  },
+  {
+    "id": 154,
+    "game_name": "The Wish Master",
+    "game_uid": "4b7ed1e7dc74e25e6dc75d53a72e85e0",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 189_ The Wish Master.png"
+  },
+  {
+    "id": 155,
+    "game_name": "Roulette Touch",
+    "game_uid": "362a49f985ed28b53e70878b82e02e4f",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 120_ Roulette Touch.png"
+  },
+  {
+    "id": 156,
+    "game_name": "101 Candies",
+    "game_uid": "5cdb749ef224893ee5942b79e49be473",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 190_ 101 Candies.jpg"
+  },
+  {
+    "id": 157,
+    "game_name": "Hotline 2",
+    "game_uid": "5935ff9ba6d459aa6a0d3cc11030cf7f",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 62_ Hotline 2.png"
+  },
+  {
+    "id": 158,
+    "game_name": "Parthenon: Quest for Immortality",
+    "game_uid": "cebea97a58116ee2bee7199b3cc40d92",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 43_ Parthenon Quest for Immortality.png"
+  },
+  {
+    "id": 159,
+    "game_name": "Dazzle Me",
+    "game_uid": "0b3769fe2b118c898b21f64a837b81d3",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 210_ Dazzle Me Christmas.png"
+  },
+  {
+    "id": 160,
+    "game_name": "Fruit Shop",
+    "game_uid": "c416289b37a5f5a75708b820e925174b",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 09_ Fruit Shop.png"
+  },
+  {
+    "id": 161,
+    "game_name": "Dead or Alive",
+    "game_uid": "8f05f2e9abd6d1d9e8ae595a4242c2ea",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 247_ dead or alive 3wanted.png"
+  },
+  {
+    "id": 162,
+    "game_name": "Jacks or Better Double Up",
+    "game_uid": "d3f076a1223bc1789282fdaaa74def10",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 57_ Jacks or Better Double Up.png"
+  },
+  {
+    "id": 163,
+    "game_name": "Dracula",
+    "game_uid": "abb0546f419a37dd79278e215d32aed4",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 13_ Dracula.png"
+  },
+  {
+    "id": 164,
+    "game_name": "Funk Master",
+    "game_uid": "bce8609f344368ca1af3e3c17dd18de7",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 125_ Funk Master.png"
+  },
+  {
+    "id": 165,
+    "game_name": "Secrets of Christmas",
+    "game_uid": "8a96bd67f15cd605a8e751bc5b298395",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 03_ Secrets of Christmas.png"
+  },
+  {
+    "id": 166,
+    "game_name": "Happy Riches",
+    "game_uid": "8d3ab653052faaa92294a48ca609174c",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 191_ Happy Riches.jpg"
+  },
+  {
+    "id": 167,
+    "game_name": "Santa vs Rudolf",
+    "game_uid": "fd4a6def94fe66107a2ce1d4839f666b",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 192_ Santa vs Rudolf.png"
+  },
+  {
+    "id": 168,
+    "game_name": "Blackjack Classic",
+    "game_uid": "205cfe3eb665f50b1329e07ad6f0c65d",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 121_ Blackjack Classic.jpg"
+  },
+  {
+    "id": 169,
+    "game_name": "Lost Relics",
+    "game_uid": "b09a466311431a82eb1ca7385b16121f",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 50_ Lost Relics.png"
+  },
+  {
+    "id": 170,
+    "game_name": "Butterfly Staxx 2",
+    "game_uid": "ffad0b1bea610bc5992a3193ca6f0f6f",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 100_ Butterfly Staxx 2.png"
+  },
+  {
+    "id": 171,
+    "game_name": "Lock And Pop",
+    "game_uid": "a4257339944c9e6abdc1d478758d4698",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 193_ Lock And Pop.png"
+  },
+  {
+    "id": 172,
+    "game_name": "Magic Portals",
+    "game_uid": "0e4551947bcbbc8e42bb58e10fab1b17",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 194_ Magic Portals.png"
+  },
+  {
+    "id": 173,
+    "game_name": "Secret of the Stones",
+    "game_uid": "df0c0816925edc74483661801ea88f0c",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 33_ Secret of the Stones.png"
+  },
+  {
+    "id": 174,
+    "game_name": "Fruit Shop Christmas Edition",
+    "game_uid": "bf0f8e407205cc9604bb7ed8a52ee544",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 72_ Fruit Shop Christmas Edition.png"
+  },
+  {
+    "id": 175,
+    "game_name": "Excalibur",
+    "game_uid": "6e97fc4f9ae31ffb26c039a48b5381fd",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 81_ Excalibur.png"
+  },
+  {
+    "id": 176,
+    "game_name": "Twin Spin Megaways",
+    "game_uid": "f3b3c7d630aa38d285221e33b56c4a6b",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 21_ Twin Spin Megaways.png"
+  },
+  {
+    "id": 177,
+    "game_name": "Stickers",
+    "game_uid": "f5617100157a572e5e2ef8c2d4402722",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 195_ Stickers.png"
+  },
+  {
+    "id": 178,
+    "game_name": "Wild Water",
+    "game_uid": "4b78b3121aa1b28242813615a48b7e0d",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 17_ Wild Water.png"
+  },
+  {
+    "id": 179,
+    "game_name": "Pirate From the East",
+    "game_uid": "2b0c8363a0e86a2545f34ef6f4c4caed",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 196_ Pirate From the East.png"
+  },
+  {
+    "id": 180,
+    "game_name": "Sparks",
+    "game_uid": "4dc52a87303f6ba78b4bd34f5bbcdbb4",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 197_ Sparks.png"
+  },
+  {
+    "id": 181,
+    "game_name": "Go Bananas!",
+    "game_uid": "a147393df60ff86e95e168fd8405aa0f",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 198_ Go Bananas.png"
+  },
+  {
+    "id": 182,
+    "game_name": "Crab Trap",
+    "game_uid": "7644235e768783485b5cbee8df2a1230",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 199_ Crab Trap.jpg"
+  },
+  {
+    "id": 183,
+    "game_name": "Space Wars 2",
+    "game_uid": "6ec88c66ce2a3e33f526b59d1df1b564",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 126_ Space Wars 2.jpg"
+  },
+  {
+    "id": 184,
+    "game_name": "Fruit Spin",
+    "game_uid": "4dc42381d6574f098e4d24fc5e768e24",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 71_ Fruit Spin.png"
+  },
+  {
+    "id": 185,
+    "game_name": "Gonzo's Gold",
+    "game_uid": "9a8b49ea463af500714ebd7fb3d2fba1",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 118_ Gonzo_s Gold.png"
+  },
+  {
+    "id": 186,
+    "game_name": "Fairytale Legends: Hansel and Gretel",
+    "game_uid": "2c546d642ab165a54eb2d9c38465e521",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 80_ Fairytale Legends Hansel and Gretel.png"
+  },
+  {
+    "id": 187,
+    "game_name": "Superstars",
+    "game_uid": "d96b90e859defdbe42c8e57b5786391d",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 130_ Superstars.png"
+  },
+  {
+    "id": 188,
+    "game_name": "Rabid Randy Dark Trails",
+    "game_uid": "48a89fcb39de8fbb4162aaa7c5a0c406",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 200_ Rabid Randy Dark Trails.png"
+  },
+  {
+    "id": 189,
+    "game_name": "Dead West",
+    "game_uid": "ef41d90dba6db9ab8c1974803024a76f",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 201_ Dead West.png"
+  },
+  {
+    "id": 190,
+    "game_name": "Gonzo's Quest II: Return to El Dorado",
+    "game_uid": "d8bc39cf0eb4c00f94e1703dac538e32",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 202_ Gonzo_s Quest II Return to El Dorado.png"
+  },
+  {
+    "id": 191,
+    "game_name": "Piggy Riches 3: Hog Heaven",
+    "game_uid": "b7b41bd0de490c0aed49973587643fd4",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 203_ Piggy Riches 3 Hog Heaven.png"
+  },
+  {
+    "id": 192,
+    "game_name": "Jack Hammer 4: Chasing the Dragon",
+    "game_uid": "b61cc6c0bd516349ae6f4948849c684b",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 204_ Jack Hammer 4 Chasing the Dragon.png"
+  },
+  {
+    "id": 193,
+    "game_name": "Reel Rush XXXtreme",
+    "game_uid": "60de7c755c4a093fcd7955eb6027fe04",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 205_ Reel Rush XXXtreme.png"
+  },
+  {
+    "id": 194,
+    "game_name": "Divine Fortune Black",
+    "game_uid": "e9b9489705a57a20ad26c6f5df7171ae",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 206_ Divine Fortune Black.png"
+  },
+  {
+    "id": 195,
+    "game_name": "Golden Egg Invaders",
+    "game_uid": "9ea968e2e040ef88cd20432904b41f85",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 207_ Golden Egg Invaders.png"
+  },
+  {
+    "id": 196,
+    "game_name": "Finn and the Dragon Tales",
+    "game_uid": "110abda3f5d37ed8bc4a5e179a86a7c4",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 208_ Finn and the Dragon Tales.png"
+  },
+  {
+    "id": 197,
+    "game_name": "Wild Mining XXXtreme",
+    "game_uid": "afec349abfc9e31b2fb8823d8de803e3",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 209_ Wild Mining XXXtreme.png"
+  },
+  {
+    "id": 198,
+    "game_name": "Dazzle Me Christmas",
+    "game_uid": "634d55a5e57d3eb9dcca378df14db3d1",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 210_ Dazzle Me Christmas.png"
+  },
+  {
+    "id": 199,
+    "game_name": "Starburst Galaxy",
+    "game_uid": "c0fca77562d6595ffbd9ec599fda20f1",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 211_ Starburst Galaxy.png"
+  },
+  {
+    "id": 200,
+    "game_name": "Mummy MegaWays",
+    "game_uid": "4a87d7709199b507a76b2fa9d850a13e",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 212_ Mummy MegaWays.png"
+  },
+  {
+    "id": 201,
+    "game_name": "Mine Blown",
+    "game_uid": "435d0a9ba8e7334dab3eaecdee8cda33",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 213_ Mine Blown.png"
+  },
+  {
+    "id": 202,
+    "game_name": "Ms Robin Hood",
+    "game_uid": "f1bc0149f2ab7a2aeaf53438d28449d5",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 214_ Ms Robin Hood.png"
+  },
+  {
+    "id": 203,
+    "game_name": "Dragons Playground",
+    "game_uid": "a741064a1518f2d7b40733ddc2071f23",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 215_ Dragons Playground.png"
+  },
+  {
+    "id": 204,
+    "game_name": "Mermaids",
+    "game_uid": "0ced20e8006e1e953ce03a1d13838298",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 216_ Mermaids.png"
+  },
+  {
+    "id": 205,
+    "game_name": "Casino Night",
+    "game_uid": "43053aa126444e1febbc275fa538a259",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 217_ Casino Night.png"
+  },
+  {
+    "id": 206,
+    "game_name": "Ticket To Wild",
+    "game_uid": "5440ef1067e424d774446181b4cde713",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 218_ Ticket To Wild.png"
+  },
+  {
+    "id": 207,
+    "game_name": "Babylon Riches",
+    "game_uid": "d30759755233b13dc28b7da824294a6e",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 219_ Babylon Riches.png"
+  },
+  {
+    "id": 208,
+    "game_name": "Gladiator Clash",
+    "game_uid": "6a581df8084d3ec5794b39a36969076d",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 220_ Gladiator Clash.png"
+  },
+  {
+    "id": 209,
+    "game_name": "Pandora’s Treasure",
+    "game_uid": "4a0157da5e3a4382accfec5b6854fe85",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 221_ Pandoras Treasure.png"
+  },
+  {
+    "id": 210,
+    "game_name": "Leprechaun Joy",
+    "game_uid": "4f83e1aa99ac8c24c6a649add6fe6699",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 222_ Leprechaun Joy.png"
+  },
+  {
+    "id": 211,
+    "game_name": "Rainforest Gold",
+    "game_uid": "2e208379c64d603c99c928dad01674f1",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 223_ Rainforest Gold.png"
+  },
+  {
+    "id": 212,
+    "game_name": "Magic lab",
+    "game_uid": "f7a327ffb797ae65edda5835635eb8a5",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 224_ Magic lab.png"
+  },
+  {
+    "id": 213,
+    "game_name": "Good Old 7’s",
+    "game_uid": "3423b61e2a01ea3752038d659236299e",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 225_ Good Old 7s.png"
+  },
+  {
+    "id": 214,
+    "game_name": "Pirates Party",
+    "game_uid": "d63e649e14989f7b64b4ff107c2be59d",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 226_ Pirates Party.png"
+  },
+  {
+    "id": 215,
+    "game_name": "Jelly Belly MegaWays",
+    "game_uid": "49fbcc914b7143172a80b76331e2b82b",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 227_ Jelly Belly MegaWays.png"
+  },
+  {
+    "id": 216,
+    "game_name": "Gem Crush",
+    "game_uid": "52a1fa121a584a257a90c4551dfeef90",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 228_ Gem Crush.png"
+  },
+  {
+    "id": 217,
+    "game_name": "Jingle Bells Bonanza",
+    "game_uid": "6bced7f79d55f207cb8a5ddc04ccd350",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 229_ Jingle Bells Bonanza.png"
+  },
+  {
+    "id": 218,
+    "game_name": "Lights, Camera, Cash!",
+    "game_uid": "ebdd044da6137e8d22f1cd88fff5d751",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 230_ Lights Camera Cash.png"
+  },
+  {
+    "id": 219,
+    "game_name": "Don’t Eat the Candy",
+    "game_uid": "cf55f7af0e313c9396d4375f92425b7c",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 231_ Dont Eat the Candy.png"
+  },
+  {
+    "id": 220,
+    "game_name": "Druid’s Magic",
+    "game_uid": "0362ec38ff904b1f371890e85e3f3c41",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 232_ Druids Magic.jpg"
+  },
+  {
+    "id": 221,
+    "game_name": "Beach Invaders",
+    "game_uid": "7a7979fcc5c85998a52a7c0945269345",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 233_ Beach Invaders.png"
+  },
+  {
+    "id": 222,
+    "game_name": "Fruit Shop Frenzy",
+    "game_uid": "3baf4d89f6c91d8445bb152a900927be",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 234_ Fruit Shop Frenzy.png"
+  },
+  {
+    "id": 223,
+    "game_name": "Wild Turkey Megaways",
+    "game_uid": "b77ad1f7597b038838aa3059ec249799",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 235_ Wild Turkey Megaways.jpg"
+  },
+  {
+    "id": 224,
+    "game_name": "The Wish Master Megaways",
+    "game_uid": "9df1c1ed9cf33d3ade9b5a191080ed99",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 236_ The Wish Master Megaways.png"
+  },
+  {
+    "id": 225,
+    "game_name": "dead or alive 3:wanted",
+    "game_uid": "599d827a59f8c07c5fda9da95663d838",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 247_ dead or alive 3wanted.png"
+  },
+  {
+    "id": 226,
+    "game_name": "Fruit Shop™ Grand Re-Opening",
+    "game_uid": "c3ed902ff59579e356a0c327663f16e5",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 248_ Fruit Shop Grand Re-Opening.jpg"
+  },
+  {
+    "id": 227,
+    "game_name": "Spice",
+    "game_uid": "c7432b73a1a22adce761f301cb96b018",
+    "game_type": "Slot",
+    "provider": "Netent",
+    "icon": "https://files.bulkapi.site/NetEnt/EN 249_ Spice.jpg"
+  }
+]

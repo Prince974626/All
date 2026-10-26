@@ -1,0 +1,578 @@
+[
+  {
+    "id": 1,
+    "game_name": "Ocean Carnival",
+    "game_uid": "f1606550cc2110be65e134be6693495f",
+    "game_type": "FISHING",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 001_ Ocean Carnival.jpg"
+  },
+  {
+    "id": 2,
+    "game_name": "Fishing Treasure",
+    "game_uid": "5fa951b60fd3387d83b2029763193cc2",
+    "game_type": "FISHING",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 002_ Fishing Treasure.png"
+  },
+  {
+    "id": 3,
+    "game_name": "Candy Super Tumble",
+    "game_uid": "7670147417f3d4ecf00a3ac180a30efd",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 003_ Candy Super Tumble.jpg"
+  },
+  {
+    "id": 4,
+    "game_name": "Jungle Quest",
+    "game_uid": "fe5bb309f6849942cf788d72d9b80bc5",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 004_ Jungle Quest.jpg"
+  },
+  {
+    "id": 5,
+    "game_name": "Blade of Fortune",
+    "game_uid": "94a1353177b3466a67f70021893aca67",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 005_ Blade of Fortune.jpg"
+  },
+  {
+    "id": 6,
+    "game_name": "Wild Mafia",
+    "game_uid": "6ab9b470b5049025104d710fcc8f4091",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 006_ Wild Mafia.jpg"
+  },
+  {
+    "id": 7,
+    "game_name": "Alien Smash",
+    "game_uid": "70ff4744e87b0124c1840e09446f9292",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 007_ Alien Smash.jpg"
+  },
+  {
+    "id": 8,
+    "game_name": "Snake Treasure",
+    "game_uid": "02a6445f671a56c435d0a98cfce5f479",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 008_ Snake Treasure.jpg"
+  },
+  {
+    "id": 9,
+    "game_name": "Guardian of the Museum",
+    "game_uid": "dfcca5c7420280aece1ee28d94c560f8",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 009_ Guardian of the Museum.jpg"
+  },
+  {
+    "id": 10,
+    "game_name": "Beasts of Luck",
+    "game_uid": "bc71e694e3e21cf662c40a95bcb88252",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 010_ Beasts of Luck.jpg"
+  },
+  {
+    "id": 11,
+    "game_name": "Pumpkins Go Lucky",
+    "game_uid": "5603ec5b778820ddb69673626402dda3",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 011_ Pumpkins Go Lucky.jpg"
+  },
+  {
+    "id": 12,
+    "game_name": "Apollo Ray of Luck",
+    "game_uid": "95a295cb2fed7dc72bc9552f00c1162d",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 012_ Apollo Ray of Luck.jpg"
+  },
+  {
+    "id": 13,
+    "game_name": "Nezha",
+    "game_uid": "287a6d42bff507c831c3ee53c6a519d0",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 013_ Nezha.jpg"
+  },
+  {
+    "id": 14,
+    "game_name": "Pai Gow Ways",
+    "game_uid": "85802d51c1da2e7deb2b821642b8c06b",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 014_ Pai Gow Ways.jpg"
+  },
+  {
+    "id": 15,
+    "game_name": "Mahjong Princess",
+    "game_uid": "64588f61b265819f4f37e0ce3d25ef60",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 015_ Mahjong Princess.jpg"
+  },
+  {
+    "id": 16,
+    "game_name": "Caribbean Riches",
+    "game_uid": "4295951dd153df37ceed88a2c52a7d63",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 016_ Caribbean Riches.jpg"
+  },
+  {
+    "id": 17,
+    "game_name": "Farm Of Fortune",
+    "game_uid": "41eb48def69db51d75c2ba453912655d",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 017_ Farm Of Fortune.jpg"
+  },
+  {
+    "id": 18,
+    "game_name": "Adventure To The West",
+    "game_uid": "013badb5ea523b60f102753ee0f1f150",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 018_ Adventure To The West.jpg"
+  },
+  {
+    "id": 19,
+    "game_name": "Money Dragon",
+    "game_uid": "69ecf345b0ba235319ac9f224ba76236",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 019_ Money Dragon.jpg"
+  },
+  {
+    "id": 20,
+    "game_name": "Ranger Showdown",
+    "game_uid": "7c6007d9ba2db80a04a1e0a7eb46d8e8",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 020_ Ranger Showdown.jpg"
+  },
+  {
+    "id": 21,
+    "game_name": "Yeti Boom",
+    "game_uid": "3e64439df128cc1a98dbad4a02c0935f",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 021_ Yeti Boom.jpg"
+  },
+  {
+    "id": 22,
+    "game_name": "Money Empire",
+    "game_uid": "5a7ba344416b8911881457b5a71da0ce",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 022_ Money Empire.jpg"
+  },
+  {
+    "id": 23,
+    "game_name": "Leprechaun Bonanza",
+    "game_uid": "a9ba5cde9103cf71fffbd65f2629f9cd",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 023_ Leprechaun Bonanza.jpg"
+  },
+  {
+    "id": 24,
+    "game_name": "Sweet Frenzy",
+    "game_uid": "6901234b0b8090c609b2f9a68281d34b",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 024_ Sweet Frenzy.jpg"
+  },
+  {
+    "id": 25,
+    "game_name": "City of Jewels",
+    "game_uid": "cb5daea3e2a2a688e30b01659eea6ed2",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 025_ City of Jewels.jpg"
+  },
+  {
+    "id": 26,
+    "game_name": "Mushroom Bandit",
+    "game_uid": "cb9aa4e8c9791bacc3605241cd65e4ff",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 026_ Mushroom Bandit.jpg"
+  },
+  {
+    "id": 27,
+    "game_name": "Mighty Sevens",
+    "game_uid": "3195c50b8dac84360463008a51f4b3d5",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 027_ Mighty Sevens.jpg"
+  },
+  {
+    "id": 28,
+    "game_name": "Neko Riches",
+    "game_uid": "81396e48d80069867d916e51bdd4bb26",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 028_ Neko Riches.png"
+  },
+  {
+    "id": 29,
+    "game_name": "The Great Safari",
+    "game_uid": "0dc1fac12a21b8fd04578dc6f82e0878",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 029_ The Great Safari.jpg"
+  },
+  {
+    "id": 30,
+    "game_name": "Tiki Rush",
+    "game_uid": "283c494f7478794cd3976a57e01902e4",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 030_ Tiki Rush.jpg"
+  },
+  {
+    "id": 31,
+    "game_name": "Legend of Nian",
+    "game_uid": "5ee3d06323becb3ef562b6e43f92a96e",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 031_ Legend of Nian.jpg"
+  },
+  {
+    "id": 32,
+    "game_name": "The Nutcrackers",
+    "game_uid": "7ab4612d1866b90bd04b63a097e6b0f8",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 032_ The Nutcrackers.jpg"
+  },
+  {
+    "id": 33,
+    "game_name": "Mining Bonanza",
+    "game_uid": "c6f0dc239b25a83e8d83404eff91b3a5",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 033_ Mining Bonanza.jpg"
+  },
+  {
+    "id": 34,
+    "game_name": "Heavenly Fortunes 2",
+    "game_uid": "dd1844c1569cbbee5a3556083f837d9b",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 034_ Heavenly Fortunes 2.png"
+  },
+  {
+    "id": 35,
+    "game_name": "Ganesha Luck",
+    "game_uid": "e60d78af143917d49ffedd40740cf415",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 035_ Ganesha Luck.png"
+  },
+  {
+    "id": 36,
+    "game_name": "Heavenly Fortunes",
+    "game_uid": "b3d6c98f8ce7a3f77eaa951642313258",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 036_ Heavenly Fortunes.png"
+  },
+  {
+    "id": 37,
+    "game_name": "Safari Blitz",
+    "game_uid": "90acee06b3727368dd4ca3b85dae0d60",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 037_ Safari Blitz.png"
+  },
+  {
+    "id": 38,
+    "game_name": "Goddess Of Egypt",
+    "game_uid": "fb9f0111cad5a9743c6b9ea65d9d6e33",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 038_ Goddess Of Egypt.png"
+  },
+  {
+    "id": 39,
+    "game_name": "The Maya Myth",
+    "game_uid": "d903a8b607b6dba8839e5ef290d8830b",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 039_ The Maya Myth.png"
+  },
+  {
+    "id": 40,
+    "game_name": "Spin and Win",
+    "game_uid": "afe76d7daf71c22377722ea3e68292a2",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 040_ Spin and Win.jpg"
+  },
+  {
+    "id": 41,
+    "game_name": "Fortune Lions",
+    "game_uid": "bc04341da269a2a80113c8dad3e49972",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 041_ Fortune Lions.png"
+  },
+  {
+    "id": 42,
+    "game_name": "Honey Trap",
+    "game_uid": "444c9fbcb648995eb79e99a552bbe56d",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 042_ Honey Trap.png"
+  },
+  {
+    "id": 43,
+    "game_name": "Oceanic Melodies",
+    "game_uid": "43944d91d2c047fd9ee5968f7e2a723e",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 043_ Oceanic Melodies.png"
+  },
+  {
+    "id": 44,
+    "game_name": "Loki",
+    "game_uid": "7f2f5e93fdafa0003f18a17eaaff0a82",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 044_ Loki.png"
+  },
+  {
+    "id": 45,
+    "game_name": "Fruits Mania",
+    "game_uid": "addc875986cd01bca49aa4cb72caea9c",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 045_ Fruits Mania.png"
+  },
+  {
+    "id": 46,
+    "game_name": "Fiery Lava",
+    "game_uid": "d63e8e598a73919eaa2c5c1491219408",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 046_ Fiery Lava.png"
+  },
+  {
+    "id": 47,
+    "game_name": "God Of Wealth",
+    "game_uid": "2658c844bf9d2d43ebd71b810b44d02f",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 047_ God Of Wealth.png"
+  },
+  {
+    "id": 48,
+    "game_name": "Legend Of Eagle",
+    "game_uid": "6597ca57c907b0a8b6af4d3f7fad4287",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 048_ Legend Of Eagle.png"
+  },
+  {
+    "id": 49,
+    "game_name": "Neon Fantasy",
+    "game_uid": "7480e9f0d5f9491fc57c5416038ccaf4",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 049_ Neon Fantasy.png"
+  },
+  {
+    "id": 50,
+    "game_name": "Triple Happiness",
+    "game_uid": "ef30327a01710ded2e34aaf255f3825f",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 050_ Triple Happiness.png"
+  },
+  {
+    "id": 51,
+    "game_name": "Lucky Fortune",
+    "game_uid": "5a49955d400478e90c5d71b58a3257ac",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 051_ Lucky Fortune.png"
+  },
+  {
+    "id": 52,
+    "game_name": "Space Conquest",
+    "game_uid": "75215c8e062e661a81c2fd362a588673",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 052_ Space Conquest.png"
+  },
+  {
+    "id": 53,
+    "game_name": "Royale House",
+    "game_uid": "de8088af0ae4a09599f6710ff89bf0b1",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 053_ Royale House.png"
+  },
+  {
+    "id": 54,
+    "game_name": "Sexy Vegas",
+    "game_uid": "6b704ad69f470a31db78fe73c5c43df0",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 054_ Sexy Vegas.png"
+  },
+  {
+    "id": 55,
+    "game_name": "Roma",
+    "game_uid": "ddd5122d58891fd7cd1e3140d5772c95",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 055_ Roma.png"
+  },
+  {
+    "id": 56,
+    "game_name": "Gold Rush Cowboys",
+    "game_uid": "8ab1410f2a57b3ca3a4080f28e9e18c4",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 056_ Gold Rush Cowboys.png"
+  },
+  {
+    "id": 57,
+    "game_name": "Wild Wet Win",
+    "game_uid": "f86ce480f13b1aa0cdbf8e1ed20150c5",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 057_ Wild Wet Win.png"
+  },
+  {
+    "id": 58,
+    "game_name": "Royal Katt",
+    "game_uid": "e232d99e752305098c846fc0bb82984b",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 058_ Royal Katt.png"
+  },
+  {
+    "id": 59,
+    "game_name": "Rich Cai Shen",
+    "game_uid": "650a541ce544f0cb65f948c1e2309ca5",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 059_ Rich Cai Shen.png"
+  },
+  {
+    "id": 60,
+    "game_name": "Muay Thai Fighter",
+    "game_uid": "f7b16f5624b430ab69984da4c88c65a4",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 060_ Muay Thai Fighter.png"
+  },
+  {
+    "id": 61,
+    "game_name": "Poker Ways",
+    "game_uid": "3abb65a0bb24d01d03cb04822db7de5e",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 061_ Poker Ways.png"
+  },
+  {
+    "id": 62,
+    "game_name": "Golden Moon Empire",
+    "game_uid": "1ec93c89b4de81cde645d4fa680677ba",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 062_ Golden Moon Empire.jpg"
+  },
+  {
+    "id": 63,
+    "game_name": "Boxing Fury",
+    "game_uid": "99bfc05caaba967e24bdce499ffc02da",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 063_ Boxing Fury.jpg"
+  },
+  {
+    "id": 64,
+    "game_name": "Nutty Riches",
+    "game_uid": "e80704e9b0cc3814f1ae85eaaf54e68b",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 064_ Nutty Riches.jpeg"
+  },
+  {
+    "id": 65,
+    "game_name": "Fortune Jewels 2",
+    "game_uid": "effa266ba0e2176408334485b079cd20",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 065_ Fortune Jewels 2.jpeg"
+  },
+  {
+    "id": 66,
+    "game_name": "Wild Calavera",
+    "game_uid": "5f684cdaeb8fa2135938f8f0a7aefac6",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 066_ Wild Calavera.jpg"
+  },
+  {
+    "id": 67,
+    "game_name": "Fortune Jewels I",
+    "game_uid": "836af3884166e10bf4e19ff65172857f",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 067_ Fortune Jewels I.jpg"
+  },
+  {
+    "id": 68,
+    "game_name": "Frosty and Flamy",
+    "game_uid": "4904f87681abbee1b9bd0645a81025d7",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 068_ Frosty and Flamy.jpg"
+  },
+  {
+    "id": 69,
+    "game_name": "Fortune Jewels III",
+    "game_uid": "47eb8ab31554c0857ca119e295523aeb",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 069_ Fortune Jewels III.jpg"
+  },
+  {
+    "id": 70,
+    "game_name": "Spirit of the Sea",
+    "game_uid": "f62e24ea0cd54db7b4dd8810635412f7",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 070_ Spirit of the Sea.jpg"
+  },
+  {
+    "id": 71,
+    "game_name": "Imperial Majesty",
+    "game_uid": "d897b19866bea2b3a24b30afb5f17bdb",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 071_ Imperial Majesty.jpg"
+  },
+  {
+    "id": 72,
+    "game_name": "Vegas Hot Fruit",
+    "game_uid": "b497f66b4c8b60479f9bae38d45a3650",
+    "game_type": "Slot",
+    "provider": "fastspin",
+    "icon": "https://files.bulkapi.site/Fastspin/F 073_ Vegas Hot Fruit.jpg"
+  }
+]

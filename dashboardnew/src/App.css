@@ -1,0 +1,257 @@
+:root {
+  --color-green-start: #14805e;
+  --color-green-end: #184438;
+  --color-blue-start: #315195;
+  --color-blue-end: #14213d;
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.5;
+}
+.log-fld h2::before,
+.log-fld h2::after {
+  content: '';
+  height: 1px;
+  position: absolute;
+  top: 16px;
+  width: 20%;
+  background: #000;
+}
+.log-fld h2::before {
+  left: 0;
+}
+.log-fld h2::after {
+  right: 0;
+}
+.add-account {
+  background-color: #f9f9f9;
+  padding: 15px;
+  margin: 0;
+  border-radius: 4px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+}
+.pgBtn {
+  border: 1px solid #ffffff;
+}
+.pgBtn:hover {
+  border: 1px solid #0088cc;
+  border-radius: 4px;
+  color: #fff;
+  background: #0088cc;
+}
+.bg-color {
+  background: #0088cc;
+}
+.bg-color2 {
+  background: linear-gradient(#14805e 0%, #184438 100%);
+}
+
+.bg-blue {
+  background: linear-gradient(
+    -180deg,
+    var(--color-blue-start) 0%,
+    var(--color-blue-end) 100%
+  );
+}
+
+.text-green {
+  color: var(--color-green-start);
+}
+
+.text-blue {
+  color: var(--color-blue-end);
+}
+
+.text-blue2 {
+  color: var(--color-blue-start);
+}
+
+.bg-blue-one {
+  background-color: var(--color-blue-end);
+}
+
+.bg-dark {
+  background: linear-gradient(-180deg, #2e4b5e 0%, #243a48 82%);
+}
+
+/* toast */
+.toast-success {
+  background-color: #28a745 !important;
+  /* Full green */
+  color: white !important;
+}
+
+.toast-error {
+  background-color: #dc3545 !important;
+  /* Full red */
+  color: white !important;
+}
+
+.toast-default {
+  background-color: #333 !important;
+  color: white !important;
+}
+
+/*  */
+/* From Uiverse.io by wztd */
+.loader {
+  /* background-color: white; */
+  /* position: relative; */
+  width: fit-content;
+  height: fit-content;
+  padding: 0px 13px;
+  /* aspect-ratio: 1/2;
+    filter: url(#goo); */
+  transform: rotate(90deg);
+}
+
+#goo {
+  display: none;
+}
+
+.loader:before,
+.loader:after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  width: 100%;
+  aspect-ratio: 1/1;
+  animation: 1s ease-out infinite loader;
+  border-radius: 50%;
+}
+
+.loader:before {
+  background: linear-gradient(#14805e, #36cc9c);
+  width: 50px;
+}
+
+.loader:after {
+  animation-delay: 0.5s;
+  background: linear-gradient(to top, #14805e, #36cc9c);
+  width: 50px;
+}
+
+@keyframes loader {
+  0%,
+  50%,
+  100% {
+    transform: translateY(0);
+  }
+
+  25% {
+    transform: translateY(70%);
+  }
+
+  75% {
+    transform: translateY(-70%);
+  }
+}
+.modal-overlay {
+  /* position: fixed; */
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding-top: 50px;
+  /* height: 100%; */
+  background: rgba(0, 0, 0, 0.5);
+  /* Greyed out background */
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  z-index: 9999;
+}
+
+.modal-overlay1 {
+  /* position: fixed; */
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding-top: 30px;
+  /* height: 100%; */
+  background: rgba(0, 0, 0, 0.5);
+  /* Greyed out background */
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  z-index: 9999;
+}
+
+.modal-content {
+  /* width: 50%; */
+  background: #fff;
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+  /* max-height: 100vh; */
+  overflow-y: auto;
+}
+
+.modal-header {
+  color: white;
+  padding: 0.2rem 1rem;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  cursor: pointer;
+}
+
+.modalOpen {
+  overflow: hidden;
+}
+
+/* Sports Sidebar Tree View */
+.sports-tree {
+  position: relative;
+  padding-left: 24px;
+}
+
+.sports-tree::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 11px;
+  bottom: 0;
+  width: 2px;
+  background: #0088cc;
+}
+
+.sports-tree-node {
+  position: relative;
+}
+
+.sports-tree-node::before {
+  content: '';
+  position: absolute;
+  left: -16px;
+  top: 9px;
+  width: 8px;
+  height: 8px;
+  background: #0088cc;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.sports-tree-node::after {
+  content: '';
+  position: absolute;
+  left: -9px;
+  top: 12px;
+  width: 8px;
+  height: 2px;
+  background: #0088cc;
+}
+
+.sports-tree > .sports-tree-node:last-child > .sports-tree-vline {
+  position: absolute;
+  left: -13px;
+  top: 20px;
+  bottom: 0;
+  width: 6px;
+  background: white;
+  z-index: 0;
+}

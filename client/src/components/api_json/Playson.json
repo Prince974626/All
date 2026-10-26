@@ -1,0 +1,354 @@
+[
+  {
+    "id": 1,
+    "game_name": "5 Fortunator",
+    "game_uid": "ef78338785bb8639e0d85897596c6ef8",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 03_ 5 Fortunator.png"
+  },
+  {
+    "id": 2,
+    "game_name": "5 Super Sevens & Fruits",
+    "game_uid": "0d412154526087972a09d5859e4f75e6",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 04_ 5 Super Sevens Fruits.jpeg"
+  },
+  {
+    "id": 3,
+    "game_name": "Book del Sol: Multiplier",
+    "game_uid": "7049dd372d031c0a4ba49ff5873088fb",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 06_ Book del Sol Multiplier.png"
+  },
+  {
+    "id": 4,
+    "game_name": "Book of Gold: Classic",
+    "game_uid": "6a8fd95a1693bbfd26631e9d7cb18978",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 07_ Book of Gold Classic.png"
+  },
+  {
+    "id": 5,
+    "game_name": "Book of Gold: Double Chance",
+    "game_uid": "20fc6793ce7160a9ada16c404f304eee",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 08_ Book of Gold Double Chance.png"
+  },
+  {
+    "id": 6,
+    "game_name": "Book of Gold: Multichance",
+    "game_uid": "a61b821c703e7bc6cac7b001df9a7257",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 09_ Book of Gold Multichance.png"
+  },
+  {
+    "id": 7,
+    "game_name": "Buffalo Power Megaways™",
+    "game_uid": "ac5a515cb1479b2f1c4de4a16d4e12cf",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 10_ Buffalo Power Megaways.png"
+  },
+  {
+    "id": 8,
+    "game_name": "Buffalo Power: Christmas",
+    "game_uid": "91fe47eb80dbbcfb22b6ceea76e13101",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 11_ Buffalo Power Christmas.png"
+  },
+  {
+    "id": 9,
+    "game_name": "Buffalo Power: Hold and Win",
+    "game_uid": "1a54ae74fd76abf95c6c63efd0c8bf00",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 12_ Buffalo Power Hold and Win.png"
+  },
+  {
+    "id": 10,
+    "game_name": "Burning Fortunator",
+    "game_uid": "fcf29a701bf081d918de6a6454d01bca",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 13_ Burning Fortunator.png"
+  },
+  {
+    "id": 11,
+    "game_name": "Burning Wins x2",
+    "game_uid": "7445aafb7120fb1fc644f01e988c0cfc",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 14_ Burning Wins x2.png"
+  },
+  {
+    "id": 12,
+    "game_name": "Burning Wins: classic 5 lines",
+    "game_uid": "ef8efe79a6254f2ec6ea25a7faeeeeaf",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 15_ Burning Wins classic 5 lines.png"
+  },
+  {
+    "id": 13,
+    "game_name": "Crystal Land",
+    "game_uid": "338c30117b7990cadb0813a6f50e6e77",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 16_ Crystal Land.png"
+  },
+  {
+    "id": 14,
+    "game_name": "Diamond Fortunator: Hold and Win",
+    "game_uid": "db609496937822e011bafff4fd70fce7",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 17_ Diamond Fortunator Hold and Win.png"
+  },
+  {
+    "id": 15,
+    "game_name": "Diamond Wins: Hold and Win",
+    "game_uid": "cf0ac9cdca2fa85dfa249ad042e4eb98",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 18_ Diamond Wins Hold and Win.png"
+  },
+  {
+    "id": 16,
+    "game_name": "Divine Dragon: Hold and Win",
+    "game_uid": "254ed79ea292a512d5badb39f473bacc",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 19_ Divine Dragon Hold and Win.png"
+  },
+  {
+    "id": 17,
+    "game_name": "Eagle Power: Hold and Win",
+    "game_uid": "75dd62216b8277df0e4e530a39d4293d",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 20_ Eagle Power Hold and Win.png"
+  },
+  {
+    "id": 18,
+    "game_name": "Fruits & Jokers: 100 Lines",
+    "game_uid": "d1ee0e66fe74859959b6f1b7f835c7bb",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 21_ Fruits Jokers 100 Lines.png"
+  },
+  {
+    "id": 19,
+    "game_name": "Fruits & Jokers: 20 lines",
+    "game_uid": "5c57fd339db9083f1693b533ce4fd44e",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 22_ Fruits Jokers 20 lines.png"
+  },
+  {
+    "id": 20,
+    "game_name": "Fruits & Jokers: 40 Lines",
+    "game_uid": "3060053df546f3f2511a2d6bc3428c27",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 23_ Fruits Jokers 40 Lines.png"
+  },
+  {
+    "id": 21,
+    "game_name": "Hot Burning Wins",
+    "game_uid": "b4b7e5463088efd8628dddbbfbebffc2",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 24_ Hot Burning Wins.png"
+  },
+  {
+    "id": 22,
+    "game_name": "Hot Coins: Hold and Win",
+    "game_uid": "d3d6843fb8b0e7608f6eafc4f8a203af",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 25_ Hot Coins Hold and Win.png"
+  },
+  {
+    "id": 23,
+    "game_name": "Imperial Fruits: 100 Lines",
+    "game_uid": "4137f1bdb6f8599f4d248c7568d8252e",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 26_ Imperial Fruits 100 Lines.png"
+  },
+  {
+    "id": 24,
+    "game_name": "Imperial Fruits: 5 Lines",
+    "game_uid": "8edd67b87223d7f71af51aa2c60ece27",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 27_ Imperial Fruits 5 Lines.png"
+  },
+  {
+    "id": 25,
+    "game_name": "Joker Expand: 5 Lines",
+    "game_uid": "e3c847c5f8727c5b840f2a0eb3563c4f",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 28_ Joker Expand 5 Lines.png"
+  },
+  {
+    "id": 26,
+    "game_name": "Joker's Coins: Hold and Win",
+    "game_uid": "09e1616ff5f020d5f35a3009a4e8ad29",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 29_ Joker_s Coins Hold and Win.png"
+  },
+  {
+    "id": 27,
+    "game_name": "Legend of Cleopatra",
+    "game_uid": "f7bbd0636698ea47cdaf59c8020ac258",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 31_ Legend of Cleopatra.png"
+  },
+  {
+    "id": 28,
+    "game_name": "Legend of Cleopatra Megaways™",
+    "game_uid": "1a2686fa98327637cf80b047d2cc9cf3",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 32_ Legend of Cleopatra Megaways.png"
+  },
+  {
+    "id": 29,
+    "game_name": "Lion Gems: Hold and Win",
+    "game_uid": "82130908e039d7b92568791129b38b6c",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 33_ Lion Gems Hold and Win.png"
+  },
+  {
+    "id": 30,
+    "game_name": "Luxor Gold: Hold and Win",
+    "game_uid": "b358a282d5fa1b0ed3e293fc444a2b48",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 34_ Luxor Gold Hold and Win.png"
+  },
+  {
+    "id": 31,
+    "game_name": "Rise of Egypt",
+    "game_uid": "8eca78f34cf1222ac9a45d45d11d30ab",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 38_ Rise of Egypt.png"
+  },
+  {
+    "id": 32,
+    "game_name": "Royal Coins 2: Hold and Win",
+    "game_uid": "889be21389af06ae588a2db61a676407",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 39_ Royal Coins 2 Hold and Win.png"
+  },
+  {
+    "id": 33,
+    "game_name": "Royal Coins: Hold and Win",
+    "game_uid": "419f693276d7f35fa3e3b57371626701",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 40_ Royal Coins Hold and Win.png"
+  },
+  {
+    "id": 34,
+    "game_name": "Ruby Hit: Hold and Win",
+    "game_uid": "369dd8a7d81298709d216dfc8c752b5a",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 41_ Ruby Hit Hold and Win.png"
+  },
+  {
+    "id": 35,
+    "game_name": "Sevens&Fruits",
+    "game_uid": "59df691ad15f2f78493e5bf02dd30fb3",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 42_ SevensFruits.jpeg"
+  },
+  {
+    "id": 36,
+    "game_name": "Sevens&Fruits: 20 Lines",
+    "game_uid": "2a6d5454ac716bee2586ff3274442e93",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 43_ SevensFruits 20 Lines.jpeg"
+  },
+  {
+    "id": 37,
+    "game_name": "Solar King",
+    "game_uid": "2101d4e65beb437647c89b715dd97fc5",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 44_ Solar King.png"
+  },
+  {
+    "id": 38,
+    "game_name": "Solar Queen",
+    "game_uid": "10d17f8e085d61b9bc006bb0ae478fb6",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 45_ Solar Queen.png"
+  },
+  {
+    "id": 39,
+    "game_name": "Solar Temple",
+    "game_uid": "0f0ee7d15228b33c1edb463a18f0f9db",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 47_ Solar Temple.png"
+  },
+  {
+    "id": 40,
+    "game_name": "Sunny Fruits: Hold and Win",
+    "game_uid": "9c75f34c18f6826be545aaf2d51ebafa",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 49_ Sunny Fruits Hold and Win.png"
+  },
+  {
+    "id": 41,
+    "game_name": "Super Burning Wins",
+    "game_uid": "6410b005e55e4d2a968047ce7b312bb2",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 50_ Super Burning Wins.png"
+  },
+  {
+    "id": 42,
+    "game_name": "Treasures of Fire: Scatter Pays",
+    "game_uid": "fe09206edfa3af77a01397c31ca84f46",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 52_ Treasures of Fire Scatter Pays.png"
+  },
+  {
+    "id": 43,
+    "game_name": "Wolf Power Megaways™",
+    "game_uid": "9193c199dbb91e18d2174e4412c44104",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 54_ Wolf Power Megaways.png"
+  },
+  {
+    "id": 44,
+    "game_name": "Wolf Power: Hold and Win",
+    "game_uid": "9ce92ee30c97133cabf0a62ead081356",
+    "game_type": "Slot Game",
+    "provider": "playson",
+    "icon": "https://files.bulkapi.site/Playson/P 55_ Wolf Power Hold and Win.png"
+  }
+]

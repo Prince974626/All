@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "game_name": "SABA Sports",
+    "game_uid": "08ced9dd788aed11ff3c7f387ae0f063",
+    "game_type": "Sports Game",
+    "provider": "SABA Sports",
+    "provider_key": "sabasports"
+  },
+  {
+    "id": 2,
+    "game_name": "United Gaming",
+    "game_uid": "c4b2813f6bbc5abf502ddfb857e604eb",
+    "game_type": "Sports Game",
+    "provider": "United Gaming",
+    "provider_key": "unitedgaming"
+  },
+  {
+    "id": 3,
+    "game_name": "LuckSportGaming",
+    "game_uid": "92b24e4c25107367a80e0fe1a97c24e4",
+    "game_type": "Sports Game",
+    "provider": "LuckSportGaming",
+    "provider_key": "lucksportgaming"
+  },
+  {
+    "id": 5,
+    "game_name": "BtiGaming",
+    "game_uid": "4d31f1186a81e208c003a7e37411ce35",
+    "game_type": "Sports Game",
+    "provider": "BtiGaming",
+    "provider_key": "btigaming"
+  }
+]

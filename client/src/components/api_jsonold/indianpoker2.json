@@ -1,0 +1,244 @@
+[
+  {
+    "id": 1,
+    "game_name": "Bet On Baccarat",
+    "game_uid": "f6afb5edb029a2c3ece6139970ea6c24",
+    "game_type": "CasinoLive",
+    "provider": "Playtech",
+    "icon": "https://bulkapi.in/indian-poker2/Bet-On-Baccarat.png"
+  },
+  {
+    "id": 2,
+    "game_name": "Quantum Baccarat Live",
+    "game_uid": "3d0a528c4e7283af595f3ca3c71f5793",
+    "game_type": "CasinoLive",
+    "provider": "Playtech",
+    "icon": "https://bulkapi.in/indian-poker2/Quantum-Baccarat-Live.png"
+  },
+  {
+    "id": 3,
+    "game_name": "Blackjack 1",
+    "game_uid": "fa14f96dad1cf2f542913381b3664c95",
+    "game_type": "CasinoLive",
+    "provider": "Playtech",
+    "icon": "https://bulkapi.in/indian-poker2/Blackjack-1.png"
+  },
+  {
+    "id": 4,
+    "game_name": "Unlimited Blackjack",
+    "game_uid": "1e71714fa938d1384839fe6f926bb02d",
+    "game_type": "CasinoLive",
+    "provider": "Playtech",
+    "icon": "https://bulkapi.in/indian-poker2/Unlimited-Blackjack.png"
+  },
+  {
+    "id": 5,
+    "game_name": "Blackjack VZN 1",
+    "game_uid": "15428e34c157a6656a29f03c3a7eff96",
+    "game_type": "CasinoLive",
+    "provider": "Playtech",
+    "icon": "https://bulkapi.in/indian-poker2/Blackjack-VZN-1.png"
+  },
+  {
+    "id": 6,
+    "game_name": "Speed Blackjack 1",
+    "game_uid": "fc8e880860aed598cc35665cd191aec4",
+    "game_type": "CasinoLive",
+    "provider": "Playtech",
+    "icon": "https://bulkapi.in/indian-poker2/Speed-Blackjack-1.png"
+  },
+  {
+    "id": 7,
+    "game_name": "Dragon Tiger",
+    "game_uid": "7c1f35091de391e02f4a0fb3146a09d5",
+    "game_type": "CasinoLive",
+    "provider": "Playtech",
+    "icon": "https://bulkapi.in/indian-poker2/Dragon-Tiger.png"
+  },
+  {
+    "id": 8,
+    "game_name": "Bet On Dragon Tiger",
+    "game_uid": "18fc072227482162cdf58ccfb41c5039",
+    "game_type": "CasinoLive",
+    "provider": "Playtech",
+    "icon": "https://bulkapi.in/indian-poker2/Bet-On-Dragon-Tiger.png"
+  },
+  {
+    "id": 9,
+    "game_name": "Andar Bahar",
+    "game_uid": "0633f8e4f38bb87a6ac9caa7db4e2151",
+    "game_type": "CasinoLive",
+    "provider": "Playtech",
+    "icon": "https://bulkapi.in/indian-poker2/Andar-Bahar.png"
+  },
+  {
+    "id": 10,
+    "game_name": "Bet on Poker",
+    "game_uid": "4e70ac2a8c8e77667a70a9cefab94665",
+    "game_type": "CasinoLive",
+    "provider": "Playtech",
+    "icon": "https://bulkapi.in/indian-poker2/Bet-on-Poker.png"
+  },
+  {
+    "id": 11,
+    "game_name": "3 Card Brag",
+    "game_uid": "1041e1bce5dbdea43e65b511aff04b3f",
+    "game_type": "CasinoLive",
+    "provider": "Playtech",
+    "icon": "https://bulkapi.in/indian-poker2/3-Card-Brag.png"
+  },
+  {
+    "id": 12,
+    "game_name": "Teen Patti",
+    "game_uid": "0617a82334f4f1766cf282ce906e1df7",
+    "game_type": "CasinoLive",
+    "provider": "Evolution",
+    "icon": "https://bulkapi.in/indian-poker2/teenpatti.png"
+  },
+  {
+    "id": 13,
+    "game_name": "First Person Video Poker",
+    "game_uid": "24e52b094b2dfadb0c641ed4f4935077",
+    "game_type": "CasinoLive",
+    "provider": "Evolution",
+    "icon": "https://bulkapi.in/indian-poker2/First-Person-Video-Poker.png"
+  },
+  {
+    "id": 14,
+    "game_name": "Namaste Roulette",
+    "game_uid": "b1ffb1afd5b76785bd4ee21e31400849",
+    "game_type": "CasinoLive",
+    "provider": "indian-poker2",
+    "icon": "https://bulkapi.in/EZUGI/EZUGI_221005.png"
+  },
+   {
+    "id": 15,
+    "game_name": "Andar Bahar",
+    "game_uid": "435b892a73bf466e0ad584d480e12143",
+    "game_type": "CasinoLive",
+    "provider": "indian-poker2",
+    "icon": "https://bulkapi.in/EZUGI/EZUGI_228000.png"
+  },
+  {
+    "id": 16,
+    "game_name": "Diwali Auto Roulette",
+    "game_uid": "d7e5f6258dd0dfdd29b3798f124b6b9d",
+    "game_type": "CasinoLive",
+    "provider": "indian-poker2",
+    "icon": "https://bulkapi.in/indian-poker2/Diwali-Auto-Roulette.png"
+  },
+  {
+    "id": 17,
+    "game_name": "Ultimate Andar Bahar",
+    "game_uid": "75f81c56555d394503f544f3431ef370",
+    "game_type": "CasinoLive",
+    "provider": "indian-poker2",
+    "icon": "https://bulkapi.in/EZUGI/EZUGI_228100.png"
+  },
+  {
+    "id": 18,
+    "game_name": "Bet on Teen Patti",
+    "game_uid": "e1b5650cd867be7719c15e7596aa7217",
+    "game_type": "CasinoLive",
+    "provider": "indian-poker2",
+    "icon": "https://bulkapi.in/indian-poker2/Bet-on-Teen-Patti.png"
+  },
+  {
+    "id": 20,
+    "game_name": "Lucky 7",
+    "game_uid": "c88c40ec4fc544518d938315e2d1b2a3",
+    "game_type": "CasinoLive",
+    "provider": "indian-poker2",
+    "icon": "https://bulkapi.in/EZUGI/EZUGI_228001.png"
+  },
+  {
+    "id": 21,
+    "game_name": "One Day Teen Patti",
+    "game_uid": "01556a46c5163d5570739dd7cddfcf68",
+    "game_type": "CasinoLive",
+    "provider": "indian-poker2",
+    "icon": "https://bulkapi.in/indian-poker2/One-Day-Teen-Patti.png"
+  },
+  {
+    "id": 22,
+    "game_name": "Cricket War",
+    "game_uid": "93e289d1b18a9f82fb5d790f3c8e6735",
+    "game_type": "CasinoLive",
+    "provider": "indian-poker2",
+    "icon": "https://bulkapi.in/EZUGI/EZUGI_45100.png"
+  },
+  {
+    "id": 23,
+    "game_name": "Teen Patti 3 Card",
+    "game_uid": "26f9f76a8fc813b8abcb6b8cb03c2eab",
+    "game_type": "CasinoLive",
+    "provider": "indian-poker2",
+    "icon": "https://bulkapi.in/EZUGI/EZUGI_227100.png"
+  },
+  {
+    "id": 24,
+    "game_name": "EZ Dealer Roulette Hindi",
+    "game_uid": "382c8d0c9979a8ac81bd5478aafd978b",
+    "game_type": "CasinoLive",
+    "provider": "indian-poker2",
+    "icon": "https://bulkapi.in/EZUGI/EZUGI_481008.png"
+  },
+  {
+    "id": 25,
+    "game_name": "Casino Marina Andar Bahar",
+    "game_uid": "5058f0aa42547208b1307fcbf21dcf9a",
+    "game_type": "CasinoLive",
+    "provider": "indian-poker2",
+    "icon": "https://bulkapi.in/indian-poker2/Casino-Marina-Andar-Bahar.png"
+  },
+  {
+    "id": 26,
+    "game_name": "EZ Dealer Roulette Diwali",
+    "game_uid": "a1452b4ee5666d60918064c63c0576a6",
+    "game_type": "CasinoLive",
+    "provider": "indian-poker2",
+    "icon": "https://bulkapi.in/indian-poker2/EZ-Dealer-Roulette-Diwali.png"
+  },
+  {
+    "id": 27,
+    "game_name": "Hindi Speed Baccarat B",
+    "game_uid": "327b996d10cab4e88d68a0d1782681b1",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/HSpeedBac0000002.png"
+  },
+  {
+    "id": 28,
+    "game_name": "Hindi Speed Baccarat A",
+    "game_uid": "6e9d55c8ef63776d56c85a51a934451f",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/qhhjdnovai4a3a6k.png"
+  },
+  {
+    "id": 29,
+    "game_name": "Hindi Roulette",
+    "game_uid": "4be4c0724671aeafaa8e7e0c8a1c1500",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/indian-poker2/Hindi-Roulette.png"
+  },
+  {
+    "id": 30,
+    "game_name": "Hindi Lightning Roulette",
+    "game_uid": "a81f3cb4f375694fd3bfbf4ef0456689",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/indian-poker2/Hindi-Lightning-Roulette.png"
+  },
+  {
+    "id": 31,
+    "game_name": "Super Andar Bahar",
+    "game_uid": "f7b98e899461bdd49f92afc36b4c0db5",
+    "game_type": "CasinoLive",
+    "provider": "evolutionlive",
+    "icon": "https://bulkapi.in/EVO_Video/AndarBahar000001.png"
+  }
+  
+  
+]

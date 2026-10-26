@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "game_name": "Teen Patti",
+    "game_uid": "ba554d37d7e77dde4a763e5c2f8a1d02",
+    "game_type": "Live",
+    "provider": "Mini",
+    "icon": "https://files.bulkapi.site/mini/TP.png"
+  },
+  {
+    "id": 2,
+    "game_name": "Andar Bahar",
+    "game_uid": "61534f0355179b2f0fb658645563d05d",
+    "game_type": "Live",
+    "provider": "Mini",
+    "icon": "https://files.bulkapi.site/mini/ABN.png"
+  },
+  {
+    "id": 3,
+    "game_name": "Super Over",
+    "game_uid": "6dda02b7471f1d7c83a2f784d38ee31a",
+    "game_type": "Live",
+    "provider": "Mini",
+    "icon": "https://files.bulkapi.site/mini/superover.png"
+  },
+  {
+    "id": 4,
+    "game_name": "Dragon Tiger",
+    "game_uid": "b7edd7202a50b426e593f33963fb4a2f",
+    "game_type": "Live",
+    "provider": "Mini",
+    "icon": "https://files.bulkapi.site/mini/DT.png"
+  },
+  {
+    "id": 5,
+    "game_name": "Amar Akbar Anthony",
+    "game_uid": "b2002b98c6c1546fbf7d83bcd6032d62",
+    "game_type": "Live",
+    "provider": "Mini",
+    "icon": "https://files.bulkapi.site/mini/AAA.png"
+  },
+  {
+    "id": 6,
+    "game_name": "Baccarat",
+    "game_uid": "4911bff87b46f952d54f4cc07d51862a",
+    "game_type": "Live",
+    "provider": "Mini",
+    "icon": "https://files.bulkapi.site/mini/baccarat.png"
+  },
+  {
+    "id": 7,
+    "game_name": "VR Poker",
+    "game_uid": "52ee41ddbbb329ac9d6144d345e018fd",
+    "game_type": "Live",
+    "provider": "Mini",
+    "icon": "https://files.bulkapi.site/mini/poker.png"
+  },
+  {
+    "id": 8,
+    "game_name": "10  10 cricket",
+    "game_uid": "386eced5c11593bc02bb7d11d8f49d67",
+    "game_type": "Live",
+    "provider": "Mini",
+    "icon": "https://files.bulkapi.site/mini/CricketWar.png"
+  },
+  {
+    "id": 9,
+    "game_name": "Muflis Teenpatti One Day",
+    "game_uid": "02fe8e136fe63d7f9271714b3362019a",
+    "game_type": "Live",
+    "provider": "Mini",
+    "icon": "https://files.bulkapi.site/mini/TeenpatiMuflis.png"
+  },
+  {
+    "id": 10,
+    "game_name": "Dragon Tiger Lion",
+    "game_uid": "e29b63a8bb6376e3566c826386036baa",
+    "game_type": "Live",
+    "provider": "Mini",
+    "icon": "https://files.bulkapi.site/mini/DragonTilerLion.png"
+  },
+  {
+    "id": 11,
+    "game_name": "Lucky 7",
+    "game_uid": "83926ba32b3cb89e542ab3dae151126a",
+    "game_type": "Live",
+    "provider": "Mini",
+    "icon": "https://files.bulkapi.site/mini/lucky7.png"
+  },
+  {
+    "id": 12,
+    "game_name": "Football StudIo",
+    "game_uid": "9c5866b1e501dcd1f9341b3a8562edf1",
+    "game_type": "Live",
+    "provider": "Mini",
+    "icon": "https://files.bulkapi.site/mini/FTS.png"
+  },
+  {
+    "id": 13,
+    "game_name": "Sexy 2 Card Teenpatti",
+    "game_uid": "7941279a8a3939b432c71d84e7e2afd2",
+    "game_type": "Live",
+    "provider": "Mini",
+    "icon": "https://files.bulkapi.site/mini/TwoCardTeenpati.png"
+  },
+  {
+    "id": 14,
+    "game_name": "VR Amar Akbar Anthony",
+    "game_uid": "16a051a381051e852ac308f7a342eedf",
+    "game_type": "Crash",
+    "provider": "Mini",
+    "icon": "https://files.bulkapi.site/mini/ARW.png"
+  }
+  
+]

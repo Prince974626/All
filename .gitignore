@@ -1,0 +1,23 @@
+
+# Ignore all node_modules folder
+**/node_modules
+
+**/logs
+
+# Ignore all .env files anywhere
+**/.env
+
+# Ignore all package-lock.json files anywhere
+**/package-lock.json
+
+\.claude
+
+# Ignore all null files
+**/*.null
+
+#Ignore all coverage folder
+**/coverage
+
+# Uploaded login posters (keep folder via .gitkeep)
+backend/uploads/posters/*
+!backend/uploads/posters/.gitkeep
